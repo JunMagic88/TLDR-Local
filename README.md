@@ -30,6 +30,7 @@ python parse.py
 ```python
 python TLDR-Local.py
 ```
+Note: if you see {'detail': 'Too many requests in 1 hour. Try again later.'}, just ignore it, it will keep retrying until it works.
 
 ## (Advanced) Custom Prompt 
 - You can change the prompt to your own liking by updating the **promp.txt** file. This is the instruction set to chatGPT. Make sure to keep the <\<TEXT\>> tag so it can load the text in at run time.
