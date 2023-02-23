@@ -1,0 +1,996 @@
+
+
+ The book titled "The Metaverse and How It Will Revolutionize Everything" is divided into three parts, covering topics such as confusion and uncertainty around the definition of the metaverse, building the metaverse, and how it will impact various industries. The book includes chapters on networking, computing, virtual world engines, interoperability, hardware, payment rails, blockchains, and more. The author also discusses the timing of the metaverse's arrival, meta-businesses, winners and losers, and the metaversal existence. The book includes acknowledgments, notes, and an index.
+
+The text discusses Vannevar Bush's 1930s concept of a hypothetical electromechanical device called the Memex, which could store and link all books, records, and communications by keyword association. Bush became an influential engineer and science administrator and helped establish the Office of Scientific Research and Development (OSRD) to aid the US in World War II, including the Manhattan Project. President Roosevelt, Bush, and other officials formed the Top Policy Group and the Uranium Committee to manage the program.
+
+The text discusses Vannevar Bush's post-WWII essays, including "Science, the Endless Frontier" and "As We May Think," which proposed increasing government investment in science and technology and envisioned the Memex device. Bush's ideas influenced the development of the internet and hypertext in the 1960s and later led to the establishment of the Internet Engineering Task Force and the World Wide Web Consortium. The text also notes how science fiction often provides a clear view of the future, despite technological progress occurring out of common sight.
+
+The article discusses how science fiction concepts such as tablets, space travel, and the Metaverse have become a reality. Facebook's CEO, Mark Zuckerberg, announced in July 2021 that the company is transitioning to become a Metaverse company, and later changed its name to Meta Platforms. Zuckerberg's investment in the Metaverse is predicted to reduce Facebook's operating income by over $10 billion in 2021. Competing efforts from billionaires Richard Branson, Elon Musk, and Jeff Bezos are also underway to bring civilian travel to lower orbit and usher in an era of space elevators and interplanetary colonization.
+
+The Metaverse concept has gained increasing attention from corporations worldwide, with Microsoft and Nvidia among those announcing similar initiatives. The gaming industry has also seen large IPOs from Unity Technologies and Roblox Corporation with Metaverse-related narratives. The term "Metaverse" was mentioned over 260 times in 2021, compared to only seven times in the prior decade. Companies in China and South Korea have also publicly described their vision of the Metaverse.
+
+Krafton announced plans to launch a PUBG Metaverse following its IPO, while Alibaba and ByteDance registered Metaverse trademarks and acquired VR-related start-ups. The Chinese government cracked down on its gaming industry, with policies limiting minors' playtime and facial recognition used to enforce rules. Tencent and Alibaba pledged funds for social value initiatives. The CCP warned against investing blindly in the Metaverse, emphasizing a focus on improving real-world conditions instead.
+
+China and the European Union expressed concerns over the Metaverse, viewing it as a potential threat to their political and economic systems. However, some believe the hype around the Metaverse may be more about driving narratives and marketing than anything life-changing. Despite this, the Metaverse is seen as the next great computing and networking platform by many in the tech industry.
+
+The impending shift to the Metaverse is compared to the previous shift to mobile and cloud computing, with preparations for the former happening earlier and proactively. The book "The Metaverse: And How It Will Revolutionize Everything" offers a clear and comprehensive definition of the Metaverse and explains why it will revolutionize our daily lives, work, and thinking. The author predicts that the collective value of these changes will be in the tens of trillions of dollars. The book refers to Meta Platforms as Facebook for clarity. The Security Times cited the author of this book when describing the Metaverse.
+
+"The Metaverse" by Matthew Ball offers a clear and insightful analysis of what the Metaverse is, how it will emerge, and how it will revolutionize everything on a global scale, creating tens of trillions of dollars of value. The book covers the key technologies needed to build the Metaverse, including networking, computing, virtual world engines, interoperability, hardware, payment rails, and blockchains. The book also discusses the potential winners and losers of the Metaverse and when it will arrive. The author provides a definition of the Metaverse and traces its brief history, which was coined by Neal Stephenson in his 1992 novel Snow.
+
+In Neal Stephenson's book "Snow Crash," the Metaverse is a virtual world that has a pervasive influence on human existence, with 15 million avatars on The Street at any given time. It offers refuge and opportunity, but also exacerbates problems in the real world. Stephenson's vision has inspired modern technology and even influenced Jeff Bezos to found Blue Origin.
+
+Neal Stephenson's works, particularly "Snow Crash," have had far-reaching impacts on modern technology, inspiring companies such as Blue Origin and Magic Leap, and influencing the development of cryptocurrency and decentralized computer networks. However, Stephenson cautions against a literal interpretation of his works and notes that his vision was created pre-Internet and pre-Worldwide Web. The concept of the Metaverse was also introduced in earlier works, such as Stanley G. Weinbaum's "Pygmalion's Spectacles" in 1935.
+
+The article discusses several works of science fiction that explore the idea of virtual reality and its impact on society. These include Ray Bradbury's "The Veldt," Philip K. Dick's "The Trouble with Bubbles," Isaac Asimov's "The Naked Sun," and William Gibson's "Neuromancer." Each work depicts a society that has become increasingly reliant on technology, to the point where face-to-face interactions and physical contact are considered unnecessary. The Wachowski siblings' film "The Matrix" also portrays a world in which humans are living in a simulated reality.
+
+The article explores the concept of the Metaverse, a virtual reality space that is seamlessly integrated with reality, as depicted in various works of science fiction. While these works present dystopian visions of the Metaverse, there is no reason to assume that such an outcome is inevitable. French philosopher Jean Baudrillard's concept of hyperreality suggests that individuals may find more meaning and value in simulated worlds. The history of virtual worlds also reveals that they have been centered on collaboration, creativity, and self-expression rather than subjugation or profiteering. Some date the history of proto-Metaverses to the 1950s during the rise of mainframe computers.
+
+The history of digital messaging started with Multi-User Dungeons (MUDs), which were text-based virtual worlds where players could interact with each other and explore a fictional world. MUDs led to the creation of Multi-User Shared Hallucinations (MUSHs) and Multi-User Experiences (MUXs), which allowed participants to collaboratively define the world and its objective. The next major development was the release of the Commodore 64 online game Habitat in 1986, which was graphical and allowed players greater control over the in-game environment. Habitat was described as a multi-participant online virtual environment and a cyberspace.
+
+Habitat, a graphical multi-participant online virtual environment, was released in 1986 and became a commercial hit, establishing new rules and regulations for maintaining order. It was the first game to use the term avatar to refer to a user's virtual body. In the 1990s, isometric 3D virtual worlds and full 3D virtual worlds emerged, allowing users to collaboratively build visible virtual spaces in real-time. OnLive! Traveler launched spatial voice chat in 1998, and Intrinsic Graphics spun off Keyhole, which later became popular and was acquired by Google.
+
+Google's mapping products and data were updated to partial 3D over 15 years, allowing users to overlay real-time traffic. Second Life, launched in 2003, attracted over one million regular users, including real-world organizations such as Adidas and Harvard, and operated like a government rather than a game-maker. Transactions were made directly between buyers and sellers, based on perceived value and need, using the platform's Linden Dollars currency. Linden Labs enabled a thriving economy via infrastructure, technical capabilities, and tools, attracting more developers and creators and driving investment.
+
+Second Life's success led to Minecraft and Roblox bringing virtual world platforms to a mainstream audience in the 2010s, focusing on children and teenage users. Minecraft users collaborated to build cities as large as Los Angeles and even built a cellphone that could make and receive live video calls to the real world. Minecraft players recreated the hospitals built in Wuhan as a tribute to healthcare workers during the COVID-19 pandemic, and a museum called the Uncensored Library was created to allow users in censored countries to read banned literature and promote free speech.
+
+Minecraft had over 150 million monthly users by the end of 2021, but Roblox was the new market leader with 225 million monthly users and 75% of US children aged 9 to 12 using the platform in Q2 2020. Roblox's Adopt Me! game had been visited over 30 billion times and developers on the platform had received over $1 billion in payments. Other platforms such as Fortnite also entered the world-building market and transformed into social platforms for non-game experiences, such as hosting virtual concerts with millions of viewers.
+
+Travis Scott's virtual concert in Fortnite was attended live by 28 million players and viewed by millions more, and helped his track debut at #1 on the Billboard charts. The success of virtual experiences like this, combined with the history of social virtual worlds, has brought the idea of the Metaverse to the forefront of consumer and enterprise technology. Epic Games' CEO, Tim Sweeney, has had metaverse aspirations for a long time, and recent advances in technology are bringing the pieces together rapidly. This is similar to the arc of all technological transformations, where the mix of necessary technology and consumer demand eventually converge.
+
+The rise of digital information services and generational succession have transformed human culture. Facebook's user base grew from 12 million to 3 billion monthly users, with younger generations now spending their own money on content and creating content themselves. Roblox's success is partly due to the influence of iPad Native children. The development of the Metaverse is leading to a fight for control.
+
+Virtual worlds will continue to evolve and eventually a Metaverse as imagined by Stephenson and others will be realized. Tech giants and start-ups will fight for supremacy in the Metaverse through hardware, technical standards, tools, content, digital wallets, and virtual identities. Tim Sweeney believes that whoever gains control of the Metaverse will become more powerful than any government. The provenance of the internet suggests that the benefits of open standards and collaboration were far-ranging.
+
+The openness of the internet, characterized by common standards and free/open-source innovations, has enabled more companies to be built, prevented pre-internet giants and telecom companies from controlling it, and democratized information. This openness has also allowed businesses to make a profit, deploy paywalls, and build proprietary technology. If the internet had been created by multinational media conglomerates, it may have been controlled for profit and restricted access to certain services.
+
+The openness and non-profit nature of the internet's early history allowed for democratized access and innovation, but the for-profit private sector is driving the development of the Metaverse for commercial purposes such as data collection, advertising, and virtual product sales. The Metaverse is being built at a time when large tech platforms have established significant influence, which may limit competition and innovation. If the internet had been created by corporations, it may have restricted access and control for profit, which is a potential risk for the development of the Metaverse.
+
+The dominant tech giants have closed much of the internet by bundling their services, preventing data exporting, shutting down partner programs, and blocking potential competitors. As a result, users have little ownership of their online identity and data, and developers must receive permission and provide payment. The Metaverse, an ever-growing share of our lives spent inside virtual worlds, presents a challenge as companies that control these worlds will likely be more dominant than those in today's digital economy.
+
+The Metaverse presents challenges such as data rights, security, misinformation, and platform power, and the companies leading in this era will determine whether the future is better or worse than the present. Users, developers, and voters have agency to shape the future and build a more equal global economy. The Metaverse is poorly understood, but it offers opportunities to bring people together and transform industries. The text also includes a brief mention of the downfall of a company and references to Pygmalion and Baudrillard.
+
+
+
+ Jean Baudrillard viewed The Matrix as a misinterpretation of his ideas. 
+
+ The concept of the Metaverse lacks a consensus definition or description. 
+
+ Industry leaders define the Metaverse based on their own worldviews and company capabilities. 
+
+ Microsoft already has a technology stack suited for the Metaverse. 
+
+ Mark Zuckerberg's Metaverse vision is focused on immersive virtual reality and social experiences.
+
+
+
+ Facebook's Oculus division is the market leader in VR and its social network is the largest globally. 
+
+ Epic's vision of the Metaverse is a digitized communal space for self-expression and interaction with brands and others. 
+
+ The term "Metaverse" is being used by executives without a clear understanding of its meaning. 
+
+ Match Group plans to incorporate Metaverse elements in its dating sites. 
+
+ Chinese companies like Tencent, Alibaba, and ByteDance are positioning themselves as Metaverse leaders, while their domestic competitors struggle to catch up.
+
+The Metaverse is a virtual reality space where people can interact and engage with each other. NetEase is technologically ready for it and is likely to be one of the fastest runners in the Metaverse space. CNBC's Jim Cramer struggled to explain the Metaverse to investors, but eventually compared it to Star Trek's Holodeck where people can interact in a virtual environment.
+
+The tech community has different opinions on key elements of the Metaverse, such as whether augmented reality is part of it or if it can only be experienced through VR headsets. Some in the crypto and blockchain community see the Metaverse as a decentralized version of the internet, while others argue it cannot be primarily operated by a single company. Facebook believes there can only be one Metaverse, while Microsoft and Roblox talk about Metaverses. The Metaverse is often described as a never-ending virtual world where people compete in immersive games, act out fantasies, and engage with their favorite franchises through avatars.
+
+The concept of the Metaverse is controversial and unclear, with some dismissing it as hype or likening it to failed past virtual worlds. Some argue that big tech's interest in the Metaverse is a strategy to avoid regulatory action or to prompt antitrust investigations. However, the potential for immense profits has also drawn attention, as seen in Epic's antitrust lawsuit against Apple, which cites the latter's policies as inhibiting the emergence of the Metaverse.
+
+Debates over the Metaverse are muddled and involve critiques that it is little more than hype or a justification for pet R&D projects. The term is an intangible idea that can be understood in different ways by different companies, leading to uncertainty and confusion. However, the fact that many companies see potential value in the Metaverse points to its size and diversity as an opportunity for disruption. Disruptive technologies require scrutiny and skepticism, but uncertainty and confusion are features of disruption and can lead to widespread change.
+
+The internet is a global network of information resources and services, but its potential and future were not clear in the 1990s. People often made errors in understanding its nature, technologies, and timing. Paul Krugman's 1998 prediction that the internet's growth would slow drastically proved to be wrong.
+
+The significance of the internet was debated for over a decade, but it became clear in the mid-2010s that it was crucial to many businesses. However, understanding the technical premises, related devices, and business models of the next platform can be challenging. Microsoft misread the dominant mobile form factor and platform business model, leading to mistakes in its mobile phone operating system, which were exposed by the release of the iPhone in 2007.
+
+Microsoft's mobile operating system failed to compete with Apple's iPhone and Google's Android due to its lack of a keyboard and free-to-license option. Facebook also initially misjudged the mobile era, believing browsers would be the dominant way to access the web, but later shifted towards native apps, which became a success. Zuckerberg admitted that their biggest mistake was betting too much on HTML5 and had to rewrite everything to be native, burning two years.
+
+Facebook's delayed shift towards mobile cost the company missed opportunities and multi-billion-dollar bills. Despite acquiring WhatsApp and Instagram, Facebook's biggest product, with the most daily users, is still WhatsApp. Other companies failed by investing in fiber optic networks with greater capacity than needed, based on the faulty belief of exponential internet traffic growth, leading to less than 5% of fiber being used, but it now enables the country's digital economy.
+
+The bankruptcies of several companies in the early 2000s were partly caused by overestimating the demand for high-speed broadband. Technological transformation is difficult to predict because it involves recursive innovation, leading to new behaviors, products, and use cases. Accurate predictions of technology tend to be vague, while inaccurate ones describe specific behaviors online. The rise of emoji and social media-driven investing strategies were unexpected outcomes of technological change.
+
+Technological transformation is difficult to predict, as recursive innovation leads to unexpected outcomes, such as TikTok remixes and social media-driven investing. The Metaverse's disruptive potential lies in its ability to change daily life, but its specific impact is yet unknown. To prepare, we must focus on defining the specific technologies and features that make up the Metaverse. The definition of the Metaverse is still contested, but it commonly refers to immersive virtual reality, which fully places a user's senses within a virtual environment.
+
+The Metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds that can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments. It is based on virtual worlds, which refer to any computer-generated simulated environment, and can be in immersive 3D, 3D, 2.5D, 2D, layered atop the real world via augmented reality, or purely text-based. These virtual worlds can have no individual user, be limited to a single user, or be shared with many others, and users might affect and be affected by this virtual world through any number of devices.
+
+Virtual worlds can reproduce the real world exactly or represent a fictionalized version of it, with game-like or non-game-like objectives such as education, commerce, socializing, meditation, and fitness. Most of the growth and popularity in virtual worlds over the past decade has been in those which downplay game-like objectives, such as Animal Crossing: New Horizons. In recent years, virtual world creation has increased for worlds with no gameplay whatsoever, such as a digital twin of the Hong Kong International Airport.
+
+Virtual worlds created using game engines like Unity can simulate real-world scenarios and help decision-makers make informed choices about city planning and airport design. The popularity of virtual worlds has increased due to their ease of creation and diversity among them. Some virtual worlds are fully persistent, while others reset for each player. Examples of popular virtual worlds include Adopt Me! on Roblox and Super Mario Bros.
+
+Virtual worlds like Super Mario Bros. can reset levels when a player dies, but may allow certain items to persist. Some virtual worlds are limited to specific devices, while others are cross-platform. Governance models of virtual worlds vary, with most being centrally controlled by the developers. Some games share select account information but are otherwise different, and players cannot interact between them. Fortnite is an example of a fully cross-platform game.
+
+The Metaverse, a virtual world where users can interact through 3D environments, is a concept gaining attention from tech companies. It offers potential for new economies and user governance. 3D environments are seen as necessary for the transition of human culture and labor to the digital world. The evolution of online communities has gone from text-based to including low-resolution images and personal websites, to the emergence of mainstream social networks.
+
+Online communities have evolved from text-based to high-resolution images and videos, with new social media platforms leading the change. Humans seek digital models that closely represent their real-world experiences. The next great step for the internet is 3D, which may disrupt industries that have resisted digital disruption, such as education. Despite predictions of remote online schooling, traditional in-person education remains costly and in high demand, with prestigious schools not launching remote programs of equivalent quality. COVID-19 pandemic has brought remote education to the forefront but it remains to be seen how it will evolve.
+
+
+
+Improvements to 3D virtual worlds and simulations, VR and AR headsets are expected to reshape pedagogical practices, but children learning alone via 2D touchscreen is inadequate. 
+
+The Metaverse is a 3D experience, but not everything inside it will be in 3D. 
+
+The advent of the 3D Metaverse does not mean that the entirety of the internet and computing will transition to 3D. 
+
+3D enables new experiences to be built on the internet, but no part of the Metaverse requires an immersive VR headset.
+
+
+
+Mobile data networks and content can be accessed without a screen, as with IoT devices and sensors. 
+
+Real-Time Rendering generates 2D/3D objects or environments using a computer program that solves complex equations. 
+
+Increasing resources such as time, CPUs/GPUs, and processing power allow for more complex equations and detail in the solution. 
+
+Pixar built a data center of 2,000 conjoined industrial-grade computers with 24,000 cores to render frames in seconds. 
+
+Prioritizing visual fidelity is sensible for Hollywood blockbusters and building renovations, but not necessary for Metaverse experiences.
+
+Real-time rendering is essential for virtual worlds to have better visuals and functionality, as pre-rendered images limit the options available to users. Real-time rendering requires a minimum of 30-120 frames to be rendered each second and more intensive computing power than 2D. The interoperability of virtual content, such as avatars and items, across different virtual worlds is crucial for the vision of the Metaverse.
+
+The Metaverse aims to enable interoperability and recognition of achievements, history, and finances across multiple virtual worlds and the real world. To achieve this, virtual worlds must be interoperable, which is similar to how the internet allows different networks to exchange information. The internet's global interoperability was made possible by the adoption of the Internet Protocol Suite and the establishment of the Internet Engineering Task Force.
+
+
+
+ Bodies were established to manage hierarchical web domains, IP addresses, URL, HTML and common standards for files on the internet. 
+
+ Common systems for presenting information on the internet were built on linkages between different websites and web content. 
+
+ Technical solutions emerged to convert competing standards, most of which were open-sourced for broad compatibility. 
+
+ The internet demonstrates the scope of systems, technical standards, and conventions needed to establish, maintain, and scale interoperability across heterogeneous applications, networks, devices, operating systems, languages, domains, and countries. 
+
+ Virtual worlds currently use their own rendering engines and file formats, requiring more work to achieve interoperability across them.
+
+
+
+ Existing virtual worlds lack systems to share data with each other and have no common language to communicate. 
+
+ Virtual worlds were not designed to be interoperable, but as closed experiences with controlled economies. 
+
+ Establishing standards and solutions for interoperability is a complex and challenging task. 
+
+ Defining 3D avatars raises questions about the number and type of clothing, avatar parts, and movement expectations. 
+
+ Different objects have varying movement requirements, such as tattoos staying fixed to skin, while ties and necklaces move with the avatar in different ways.
+
+Developers need to agree on standards for virtual goods interoperability, including understanding how they work and how to modify them to fit different virtual worlds. Challenges include ownership record management, validation, and monetization. Standards need to be highly efficient. The GIF format is popular but technically awful, while MP4 is lighter and provides greater video clarity and detail. Interoperable identifies, digital communications, and payments also present challenges.
+
+The use of GIFs leads to extra bandwidth use, longer file loading times, and worse experiences. Standardization for the Metaverse will have a profound impact on what is possible, on which devices, and when. The standardization process is complicated and requires consensus, which is never over as new standards emerge and old ones are updated. Some argue that the Metaverse will not happen, but this is not an unfamiliar position as there was once constant debate about a common internetworking standard. The value of a single integrated internet is obvious as it powers 20% of the world economy.
+
+The establishment of common standards for interoperability will be the driving force behind the success of the Metaverse economy, attracting more users and developers and driving greater investment. The leaders who establish these standards will have significant power over the rules of the Metaverse. The Metaverse must have a massively scaled number of virtual worlds to be successful, similar to the seemingly infinite number of websites and pages on the internet. The term "Metaverse" comes from the Greek prefix "meta" and the stem "verse," meaning "beyond" or "which transcends."
+
+The Metaverse is a unifying layer above individual virtual worlds and the real world, with the potential for metagalaxies - collections of virtual worlds operating under a single authority. Roblox is an example of a metagalaxy, while individual virtual worlds have sub-regions. Metaverse interoperability will be limited by practical and cultural limitations, similar to the limitations of bringing goods to different places on earth.
+
+
+
+ Tim Sweeney believes that every company will need to operate their own virtual worlds. 
+
+ Most virtual worlds do not demonstrate full persistence, as they reset after a finite period or have certain data discarded. 
+
+ Even World of Warcraft does not fully persist, as certain elements reset or change with developer updates. 
+
+ The only thing that persists in virtual worlds is the player.
+
+
+
+ Persistence in virtual worlds requires active decisions on what information to retain and how to render and share it. 
+
+ The more information that persists, the greater the computational needs and the less memory and power available for other activities. 
+
+ EVE Online is an example of a game that operates continuously and persistently, with a shared virtual world spanning thousands of star systems and planets. 
+
+ The virtual world of EVE Online is essentially empty three-dimensional space with wallpaper backgrounds, requiring innovative systems architecture and brilliant creative design.
+
+EVE Online's gameplay involves managing entitlements and locational data with relatively modest computational requirements, and much of the game's activity takes place outside of CCP's servers. The game's goal is for players to conquer planets, systems, and galaxies through corporations, alliances, and strategic positioning of fleets, with large-scale battles being rare. EVE Online's complexity is both technical and sociological, but it is limited compared to most visions of the Metaverse, as it is not an enormous, planet-sized, richly detailed virtual world.
+
+The Metaverse envisioned by Neal Stephenson involves persistence of virtual items and modifications across worlds, which would require unprecedented amounts of data management. However, a literal version of the Metaverse with a single unifying layer for everything may not be desirable, and most users would prefer to teleport between destinations. It is easier to manage the persistence of a user's data across various worlds and over time than the persistence of every user's contributions to a planet-sized world. This model reflects the internet as it exists today, where users navigate directly to specific content, and the internet persists irrespective of any one site or platform.
+
+Virtual worlds must have reliable persistence to be effective for education, work, healthcare and other aspects of human society. Without persistence, virtual goods, history, and achievements are lost. Persistence is crucial for the growth of the Metaverse, and virtual worlds based on real estate or physical spaces are most in need of it. Additionally, virtual worlds must be shared experiences, requiring every participant to have an internet connection capable of synchronous communication.
+
+For virtual worlds to be effective, they require high bandwidth, low latency, and continuous internet connections for synchronous shared experiences. The internet was not designed for this, and current online experiences mostly involve receiving frequently updated pages. However, improvements in bandwidth and latency are being made, and the challenge of synchronous online experiences is one of the greatest constraints facing the Metaverse today.
+
+Netflix and instant messaging applications operate through fixed data packets rather than continuous live connections. Netflix's servers send distinct batches of data to users, often before it's needed, and pre-load content at local nodes for faster delivery. Netflix's algorithms analyze frame data to compress file sizes, prioritizing scenes of dialogue over action.
+
+Netflix and on-demand streaming services use pre-sending and compression techniques to provide uninterrupted streaming. Live video streams, such as CNN or Twitch, are less reliable and delayed by 2-30 seconds. High-frequency stock traders require low delivery times, but basic orders don't require continuous server connection. Videoconferencing software involves high-resolution video files and shared experiences but doesn't work for real-time rendered virtual worlds. Most online experiences only require one or two elements of high bandwidth, low latency, and continuous connectivity.
+
+Zoom calls may experience connectivity issues, but the call can still continue with missed packets being sent later and playback being sped up. Network congestion is managed by prioritizing audio, and latency may cause interruptions, but patience is required. Videoconferences are led by a single person, and if the speaker loses connection, others can continue or wait for their return. Virtual worlds have higher performance requirements and are more affected by connectivity issues.
+
+Virtual worlds have more complex data sets that are needed in real-time from all users. Loss of any individual affects the entire collective experience, and lag or syncing issues can cause a user to lose their ability to affect the virtual world. Computational constraints often mean that a disconnected user can never rejoin a given session. Latency and lags in virtual worlds place individuals at risk and the collective in constant frustration. Only three-quarters of American households can consistently participate in most real-time rendered virtual worlds.
+
+The synchronicity challenge in the Middle East is critical to the evolution of the Metaverse, and networking capabilities will define and constrain its growth. The necessary cabling infrastructure, wireless standards, and hardware equipment require potentially even overhauls to foundational elements of the Internet Protocol Suite. Border Gateway Protocol (BGP) manages how and where data is transmitted across various networks but was designed for the internet's original use case of sharing static, asynchronous files. BGP follows a standardized methodology for routing traffic, which could unnecessarily delay or sever connections. BGP can be revised, but changes depend on opt-in from thousands of different internet service providers.
+
+The Border Gateway Protocol (BGP) manages how and where data is transmitted across various networks but was designed for the internet's original use case and follows a standardized methodology for routing traffic. Changes to BGP require opt-in from thousands of different internet service providers, and even substantial updates are likely to be insufficient for a globally scaled Metaverse. In our real world, even nonpersistent virtual worlds struggle to sustain more than 50 to 150 users in a shared simulation, and technical limitations shape social experiences. Stephensons Metaverse in Snow Crash was roughly two-and-a-half times the size of earth and occupied by twice the population of New York City at any given time, which is not achievable in our current reality.
+
+The article discusses the challenges of supporting massive concurrent user counts in online games. Examples are given from Fortnite, World of Warcraft, and EVE Online, with each game using different approaches to manage the workload. Fortnite limits the number of players per instance and disables certain actions to reduce the computational load, while World of Warcraft splits players across different "realms" to manage the workload. EVE Online uses a singular persistent realm, but its gameplay is less computationally intensive due to the nature of its space-based combat. Ultimately, the article suggests that the success of these games is less about the technology and more about the human decisions and interactions within them.
+
+The article discusses the challenges of supporting massive concurrent user counts in EVE Online, a space-based massively multiplayer online game. The game is designed to treat users as separate virtual worlds until necessary, and travel time is creatively used to prevent instantaneous convergence. However, the Yulai trading hub and a recent battle involving 12,000 players put a strain on CCP Games servers, leading to server issues and players being unable to enter the system. Despite this, EVE Online continues to evolve its maps and design to handle concurrency issues.
+
+Concurrency is a foundational problem for the Metaverse because it leads to exponential increases in data processing, rendering, and synchronization. The Metaverse requires the ability to support a large number of users experiencing the same event at the same time, without compromising user functionality, interactivity, rendering quality, etc. However, it is currently impossible to replicate the density and flexibility of the real world in the Metaverse. The Metaverse's success depends on its ability to support a large number of users.
+
+The Metaverse is at least five to ten years away, and realizing this vision requires serious optimization tradeoffs. The definition of the Metaverse does not require decentralization, Web3, or blockchain, which have become entangled with the term. Web3 is a more decentralized version of today's internet, while the Metaverse requires massively scaled and interoperable virtual worlds experienced synchronously and persistently by an unlimited number of users. Mixing Web3 and the Metaverse is like conflating democratic republics with industrialization or electrification.
+
+The rise of the Metaverse and Web3 may happen simultaneously, and many companies building for the Metaverse are using blockchain technology. The principles of Web3 are crucial for a thriving Metaverse, and it should be constructed by independent users, developers, and small-to-medium businesses, rather than by megacorporations. Trust is also essential for the health and prospects of the Metaverse, and Web3 advocates argue that centralized models cannot provide true ownership of virtual assets.
+
+Centralized servers do not provide true ownership of virtual assets, which can be a problem for developers who cannot guarantee their ability to operate in the future. Legal systems may eventually provide greater authority, but decentralization makes the reliance on court orders unnecessary. Some believe that a decentralized network of individually owned and compensated servers and devices is needed to support a nearly infinite, persistent, world-scale Metaverse. The removal of Fortnite from the App Store after a lawsuit by Epic Games and the use of skeuomorphism in graphical design are also discussed.
+
+The Metaverse, as a successor to the mobile internet, will require new standards and infrastructure and may involve changes to the Internet Protocol Suite, adoption of novel devices, and alteration of the balance of power between technology giants, developers, and end users. Companies are preparing for the Metaverse, as every new computing and networking platform changes the world and the companies that lead it. The winners in the personal computer era were new entrants like Microsoft, whose Windows and Office software suite ran on nearly every PC in the world.
+
+Generational changes in computing and networking platforms disrupt stagnant and protected categories. New entrants like Xiaomi and Huawei displaced PC-era manufacturers in the mobile era, with iOS and Android platforms rising. Chat services like AOL Instant Messenger and ICQ were quickly surpassed by those focused on live audio, such as Skype. Mobile era leaders like WhatsApp, Snapchat, and Slack built services predicated upon different usage behaviors, needs, and communication styles, with WhatsApp intended for nearly constant use, Snapchat prioritizing front-facing camera and built-in AR lenses, and Slack built as a productivity-based tool for business.
+
+Digital peer-to-peer payments networks such as PayPal have rapidly grown since the late 1990s, with PayPal processing over $1 trillion in payments per year. Virtual world platforms like Roblox and Minecraft, real-time rendering engines like Epic Games Unreal engine and Unity Technologies, and communication platforms like Discord are precursors to the Metaverse. In 2021, over $16 trillion was settled through blockchain/cryptocurrency networks, seen as foundational enablers of the Metaverse. Understanding the Metaverse as the next-generation internet explains that it is not owned or controlled by a single company, but rather a network of networks sharing common standards and protocols.
+
+The establishment of the Metaverse is expected to be similar to that of the internet, with many competing virtual world platforms and technologies partially integrating to produce the Metaverse. It will evolve to build on top of the internet's underlying architecture and protocol suite in a distinctive way. The Metaverse will not replace or fundamentally alter the internet. The mobile internet era is distinct from the predominantly fixed-line internet era of the past, but the internet is still a bundle of many different things, and people access it through various devices and software.
+
+The internet consists of various standards and protocols transmitted through physical networks, making internet experiences possible collectively. The pioneers of the Metaverse, seen as the successor to the internet, come from the video gaming industry, which is poised to alter the world economy. Gaming seems capable of driving the next internet because of its ability to overcome technical constraints and limitations of bandwidth, latency, and processing power. The internet's arc started in government research labs and universities and then expanded into enterprises, small-to-medium businesses, and consumers. The mobile internet followed a similar path, but its usage and software development were concentrated in government and enterprise initially, and later shifted to consumers.
+
+Early internet and mobile devices were limited in their capabilities, but were able to support basic business needs like messaging and file sharing, which were highly valuable. Real-time rendered 3D virtual worlds and simulations were even more constrained, and were not useful for most governments, enterprises, and small-to-medium businesses. Video games, however, did not require realistic simulations and were able to make use of the computing power available in early CPUs and GPUs, making them a primary use case for such hardware.
+
+Video game companies have played a significant role in advancing computing technology. For example, the US Air Force Research Laboratory built a supercomputer using Sony PlayStation 3s, which was 5-10% the cost of equivalent systems and used 10% of the energy. Graphics-based computing was used to solve queries and problems that general-purpose computing couldn't, leading to the success of companies like Nvidia. Video games were a strategic decision for Nvidia as they provided a large and technologically demanding market that was not available in other areas like climate simulation or drug discovery.
+
+Neal Stephenson, author of Snow Crash, did not anticipate the emergence of the Metaverse through gaming, which drove down the cost of 3D graphics hardware. Video game developers have created the most capable real-time rendering solutions, such as Unreal Engine and Unity Technologies. Non-gaming alternatives exist but are regarded as inferior. Game developers have also had to navigate networking challenges, giving them an advantage in creating virtual worlds.
+
+Game developers have unique expertise in creating synchronous and continuous networking connections, predictive AI, and designing gameplay that aligns with technical challenges. They also know how to create virtual worlds and places that people would want to spend time in, making them well-suited for the Metaverse era. The term Metaverse refers to a massively scaled interoperable network of real-time rendered 3D virtual worlds, and the ability to create these worlds is key to achieving it.
+
+The text discusses the importance of the Metaverse as a successor to the mobile internet and the role of video game makers in its development. It also explores the possibility of regionalization of the internet due to differences in standards, services, and content. The chapter delves into the philosophical question of perception and sound and how it relates to technicalities and equipment. The text ultimately examines what it will take to make the Metaverse a reality.
+
+The article discusses the concept of the Metaverse and its potential for existence in the future. However, it notes that even if the Metaverse is fully realized, it will only exist as data stored on servers, and will require various technologies and standards to make it accessible to users. The article also references the philosophical question of whether existence requires an observer, and considers the limitations and challenges that must be addressed in order to create a fully functional Metaverse.
+
+Microsoft Flight Simulator is a virtual world that aims to replicate the experience of airplane travel, and is not designed to be a game in the traditional sense. It has been in development since 1979, and the latest version, released in 2020, has been widely praised for its realism. Players must perform tasks similar to those of real pilots, such as communicating with air traffic control, preparing the plane for takeoff, and navigating the flight.
+
+
+
+ Microsoft Flight Simulator 2020 is an extraordinary and expansive consumer-grade simulation game that offers realistic functionality and a virtual world based on high-quality scans and images of the real world, spanning over 500,000,000 square kilometers with two trillion uniquely rendered trees, 1.5 billion buildings, and nearly every road, mountain, city, and airport across the world. However, its virtual world is nearly 2.5 petabytes large, making it difficult for consumer devices to store. Additionally, it updates in real-time to reflect real-world weather, air traffic, and geographic changes.
+
+
+
+ Microsoft Flight Simulator stores a small portion of the game, roughly 150 GB, on a consumer's device to run the game offline. Offline players see mostly procedurally generated environments with some preprogrammed flight paths, but lack the ability to mimic actual live routes or see another player's plane. When played online, Microsoft's servers stream new maps, textures, weather data, and flight paths to create a realistic experience, similar to how a real-world pilot experiences it. Most online games try to send as much information as possible in advance, while MSFS streams new information in real-time.
+
+Online games require large files to be downloaded, but during gameplay, only a small amount of data is actually transmitted from servers. The offline approach to online games is due to the unreliable nature of the internet, which imposes limitations on game developers. This approach works well but comes with restrictions.
+
+Games use an as-needed basis to send rendering data to have a greater diversity of virtual objects. Future advancements in technology may include live facial and body movements and bringing virtual items across virtual worlds. It's not practical to send all data in advance due to limitations, and updates to virtual worlds require downloads and installation which can cause delays for users.
+
+The Metaverse is not as seamless as people may imagine. Users are limited in where they can go and there are loading times between virtual worlds. The Travis Scott concert on Fortnite required preloading and background loading for each set piece. The most Metaverse-like virtual worlds use a hybrid local/cloud streaming data model to support large amounts of data. This approach is critical for games like Roblox and MSFS.
+
+Modern internet infrastructure can't handle Metaverse-style live data streaming. Roblox's data usage is manageable, but MSFS needs nearly 25 times as much hourly bandwidth than Fortnite and five times as much as Roblox. MSFS doesn't need data particularly fast, providing the players' device with lots of time to download what it needs. MSFS's virtual world has more in common with a diorama than Neal Stephenson's Metaverse.
+
+Real-time rendered virtual worlds require significant amounts of data to be sent, which can't be easily predicted, and has high volume. This creates challenges for internet connectivity, particularly with latency, which is often confused with bandwidth. Latency refers to the speed limit of data transmission and is crucial for real-time rendered virtual worlds. The challenge is to ensure a continuous and uninterrupted connection, like a fleet of cars, which move at their fastest possible speed. Few online services require ultra-low latency, but it's necessary for real-time rendered virtual worlds.
+
+For most online services, ultra-low latency is not essential as delays of up to 1-2 seconds are workable. However, in interactive experiences like gaming, latency is crucial as users need to feel that their inputs have an immediate effect. The human threshold for latency is low, with delays of over 50 ms causing frustration for avid gamers and delays of 150 ms making games unplayable. Acceptability thresholds for latency vary, with synchronization issues of over 125 ms late or 45 ms early being noticeable for audio and video. The median time for data latency in the US is around 20-30 ms.
+
+Round-trip delivery times for data transmission between cities and data centers in the United States typically fall within acceptable thresholds, but city-to-user transit times are prone to slowdowns due to congestion in local networks and copper cabling. Jitter, or packet-to-packet variance in delivery time, can spike due to unforeseen congestion, causing disruptions in online gaming. To manage latency, the industry clusters players within server regions.
+
+Delay-based and rollback netcode solutions are used in multiplayer online games to ensure synchronization and consistency among players. However, these solutions scale poorly and can cause reduced play time if latency increases. Real-time bandwidth technology estimates that only 75% of American broadband homes can consistently participate in high-fidelity virtual worlds, and a 10 ms increase or decrease in latency can reduce or increase weekly play time by 6%. Meeting the latency threshold is not sufficient for optimal gameplay.
+
+The Metaverse will require low latency, and slight mistakes and synchronization issues can quickly become eerie in virtual interactions. Latency and bandwidth affect how much information can be sent per unit of time, which is crucial for social products that depend on how many users can and do use them. Multiplayer games are often played globally, and the volume of data required for the Metaverse is much greater than that of typical multiplayer games. Therefore, low latency is crucial for successful Metaverse interactions, and slight delays can negatively impact engagement and revenue.
+
+Latency is a major obstacle to the development of the Metaverse, as even half-second delays can negatively impact engagement and revenue. Ultra-low-latency delivery is required for virtual interactions, but few services and applications currently need it, making it harder for network operators and technology companies to focus on real-time delivery. Investment in lower latency internet infrastructure will increase as the Metaverse grows, but conquering latency comes up against the laws of physics, as the distance between locations greatly impacts latency. Despite falling short of the 40-45ms benchmark for competitive video games, investment in lower latency internet infrastructure is expected to increase as the Metaverse grows.
+
+
+
+ Data sent through fiber optic cables does not travel in a straight line, but rather in a zigzag due to refraction, resulting in a 31% elongation of the route. 
+
+ International internet infrastructure is easier to improve than domestic infrastructure due to transportation infrastructure, political processes, and protected lands. 
+
+ Many countries and cities lack a direct internet connection, and internet cables must navigate international rights and geographic impediments. 
+
+ Undersea cables are simpler to lay than cables over land.
+
+
+
+ The internet backbone is a loose federation of private networks, not designed for national efficiency. 
+
+ Data sent between two cities may travel through multiple networks (hops), resulting in longer distances and transit times. 
+
+ The Border Gateway Protocol (BGP) prioritizes cost over efficiency and may result in inconsistent and unnecessarily long routes. 
+
+ Data can be sent through indirect routes, even between players in the same building in Manhattan, resulting in longer transit times.
+
+Upgrading cable-based infrastructure for faster data transmission is expensive and requires government approvals, making it easier to upgrade wireless infrastructure. 5G networks promise ultra-low latency but only help the last few hundred meters of data transmission. Satellite internet from companies like Starlink may provide high-bandwidth internet service but doesn't achieve ultra-low latency, especially over long distances.
+
+Satellite internet exacerbates the problem of travel distances and is subject to interference, making it difficult to meet minimum latency specifications for the Metaverse. Computing is crucial for operating a synchronized virtual world, and CPUs and GPUs are the resources that perform digital work. The availability and power of computing resources have increased over the years, but there are still limitations to consider.
+
+Computing resources are scarce despite advancements, and as more computing capability becomes available, people tend to perform more complicated calculations. This is evident in the growth of video game consoles, which have become larger due to the decision to place more computing power in the device. The cost of powerful computing resources can be in the tens of millions of dollars, but they are capable of producing larger, more detailed, and more beautiful images. Pixar uses their computing power to create more sophisticated renders rather than optimizing speed. For example, one shot in the film Coco had nearly eight million individually rendered lights, which took over 1,000 hours to render initially, but the time was reduced to 55 hours by reducing the lights' responsiveness to the camera.
+
+The Metaverse requires complex renders and calculations that must be created every 0.016 to 0.0083 seconds, which is computationally limited even for the most impressive virtual worlds today. Developers have imagined experiences with dozens of live players in a shared simulation for decades, but technical constraints made them impossible until now. Virtual worlds with hundreds or thousands of concurrent users have been possible since the late 1990s, but users and virtual environments were severely constrained. Players needed to buy a dedicated gaming PC, which could be expensive.
+
+Advancements in consumer-grade devices and affordable servers allowed for the development of video games like Fortnite, with richly animated avatars and vivid worlds, resulting in enormous growth in the gaming industry. High concurrent user games, like battle royale games, have become the most popular and revenue generative, with over 350 million people participating in just one genre on an average day in 2021. Design decisions, such as scattering players far apart on enormous maps, work around current computation constraints. The popularity of games like Roblox has surpassed that of best-selling consoles and social networks.
+
+While games like battle royales use tricks to work around computation constraints, limitations still exist for less powerful devices and regions with lower-end devices. Customization and certain features may be limited or turned off for players with less powerful devices. Computing capabilities improve every year, allowing for higher player counts and more detailed worlds. However, even with advancements, some games like Microsoft Flight Simulator may not be accessible to a significant portion of devices.
+
+The Metaverse will require significant computing power to support a shared simulation with custom virtual items, full motion capture, rich modification, and high-quality rendering. Jensen Huang envisions the application of the laws of physics in immersive simulations, but the amount of computing power needed is unclear. The availability of computing resources will determine the types of Metaverse experiences that are possible.
+
+According to John Carmack and Raja Koduri, the Metaverse will require a significant increase in computational efficiency, possibly up to 1,000 times more efficient than current state-of-the-art technology. One approach is to perform most of the work in remote data centers rather than on consumer devices. The use of remote servers can reduce wasteful duplication of work and improve the efficiency of virtual experiences.
+
+The variability of latency among personal devices can lead to different experiences of the same game event. This can lead to issues with determining the truth of an event and limit the overall complexity of the virtual world. Shifting processing and rendering to industrial-grade data centers may be necessary for building the Metaverse.
+
+Cloud-based gaming services like Google Stadia and Amazon Luna allow for remote rendering and streaming of gameplay to client devices, eliminating the need for expensive, frequently upgraded consumer hardware. However, remote rendering is not a consensus solution among game publishers due to concerns around latency and network limitations.
+
+Remote-rendered experiences require sending many gigabytes per hour in real-time, but current technology struggles to send even a few megabytes per hour. Remote compute is not yet proven to be more efficient for rendering due to techniques such as viewing-frustrum culling, occlusion, and LOD that only render what the user can see. One GPU cannot support multiple users' renders simultaneously.
+
+A device's processors can only load and manage a finite amount of information, and its memory system temporarily stores various renders for reuse by each player. Each player's resolution and/or frame rate drops with the number of users. A GPU cannot render two different games efficiently or trade off power between them. GPUs typically operate as a locked instance supporting a single player's rendering. There is no inherent efficiency in designing mega GPUs for multiple users, and many companies are working on this problem.
+
+Cloud gaming faces challenges due to the high cost of producing powerful GPUs, difficulties in splitting or sharing GPUs, and utilization issues. Microsoft's cloud gaming server farms use de-shelled Xboxes instead of bespoke hardware, but this limits game development. Data center economics optimize for demand, so renting high-end GPUs with low utilization rates is expensive. Amazon Web Services offers reduced rates for reserved instances, but spot instances may not be available or may only offer lower-end GPUs. These challenges indicate that the computing shortage is not solved by using remote servers that rely on expensive hardware.
+
+Consolidating servers into fewer locations can improve cost models and increase average utilization rates, but it also increases distance and latency between remote GPUs and end users. Shifting computing resources to the cloud creates new costs related to heat, servicing, securing, and managing equipment, as well as higher bandwidth costs. Sweeney's Law predicts that improvements in local compute will continue to outpace improvements in network bandwidth, latency, and reliability. Although Moore's Law may be slowing down, CPU and GPU processing power continue to grow at a rapid pace, and end-users frequently replace their primary computing device, resulting in significant improvements.
+
+Decentralized computing is the idea of sharing idle processing power from consumer devices to address the need for more processing power. This idea of shared infrastructure is culturally accepted, and examples like SETI@HOME and Tesla's self-driving cars exist. Although the technology for sharing GPUs and non-data center CPUs is nascent, blockchains may provide the technological mechanism and economic model for decentralized computing, with owners of underutilized devices paid in cryptocurrency for processing capabilities.
+
+A marketplace for capacity bidding on computing tasks could provide the necessary processing capacity for the Metaverse, with every computer designed to auction off spare processing cycles. As users navigate immersive spaces, their accounts would bid out computing tasks to nearby unused devices, earning tokens when their own devices are not in use. Virtual world engines require data and code to render virtual environments and events. The ultimate computing mesh will be powered by billions of dynamically arrayed processors.
+
+Virtual objects require data and code to be processed and interacted with, much like the laws of physics dictate interactions in the real world. However, the real world is fully preprogrammed, while virtual worlds require extensive data and code to simulate interactions. More complex interactions require even more data and comprehensive logic in the virtual world.
+
+Virtual world developers can focus their resources on what is necessary for their game, rather than infinite permutations with limited practical value. However, this approach can hinder interoperability among virtual worlds, as developers constantly rebuild everything from scratch, and their work gets harder every year. The average number of staff credits and budgets for open-world action games have grown significantly in recent years.
+
+The Metaverse requires a lot of programmers writing code to handle vast amounts of data and rendering, with game engines being a crucial part of creating virtual worlds. Game engines define the virtual laws of the universe and historically, game-makers built and maintained their own engines. However, licensing engines from companies like Unity and Epic Games has become more popular, despite annual fees being charged. Some developers still prefer to build their own engines for better game performance and control.
+
+Large publishers often build their own game engines, but most developers prefer licensing and customizing engines like Unreal or Unity for their virtual worlds. This allows smaller or inexperienced teams to build more powerful games and focus on creativity instead of technology. Licensing also makes it easier to integrate third-party tools and appeal to familiar developers. The analogy of designing and building a house applies, but games must run on various devices and operating systems.
+
+Independent game engines like Unity and Unreal provide a shared R&D pool for the industry, allowing developers to concentrate on game logic rather than compatibility issues. Live services suites such as PlayFab and GameSparks offer a range of services for online and multiplayer experiences, which work across platforms. Steam also offers its own live services product called Steamworks. Cross-platform and cross-developer technologies will become essential in the virtual world economy as virtual world builders start using these solutions.
+
+GameSparks has become a standard feature for virtual worlds and is likened to the English or metric system of the Metaverse. Integrated virtual world platforms (IVWPs), such as Roblox, Minecraft, and Fortnite Creative, use their own general-purpose and cross-platform game engines but require no actual coding, making it easier to create games, experiences, and virtual worlds using graphical interfaces.
+
+Roblox is a platform where millions of users, including children, create virtual worlds using the platform's live services. Building on Roblox is similar to constructing a Facebook page and requires using the platform's entire suite of services. Roblox has an integrated marketplace where developers can upload custom-made items for their virtual world, license them to other game makers, and earn a second source of income. Building on Roblox is easier than building on game engines like Unreal or Unity, but building the platform is harder as it requires prioritizing creative flexibility, standardizing underlying technologies, and maximizing interconnectivity while minimizing the need for training or programming knowledge.
+
+Operating an IVWP like Roblox requires constantly improving functionality while supporting old programming and avoiding errors that can disrupt the economy and harm buyers and sellers. Unlike game engines, updates automatically reach all worlds in an IVWP, making collaboration between developers necessary to populate an ever-expanding network of virtual worlds and objects. This collaboration can lead to more users, more per-user spending, more network revenue, and further improvements to the network. The potential of an IVWP is boundless, as anything made can be endlessly repurposed or improved upon at no marginal costs.
+
+Roblox's engagement and userbase have been rapidly growing, with over 4 billion hours of usage per month and an increase in monthly players from 76 million to over 226 million. The top games on the platform are created by independent developers and have been played 15 to 30 billion times each. The platform is also populated with a wide range of virtual objects, with 25 million items created in 2021 alone. Roblox's revenues have increased by 469% from Q4 2018 to Q4 2021, indicating strong network effects.
+
+Roblox's payments to developers have grown 660%, indicating that users are spending more and generating revenue faster than before. The platform's growth has been disproportionately concentrated among older audiences, with nearly two and a half times as many players over 13 than under 13 in 2021. Roblox has invested heavily in R&D, with over 30 cents of every dollar spent on the platform going back into R&D. Despite a surge in revenue, Roblox continues to reinvest at the same rate and may spend over $750 million on R&D in 2022, approaching $1 billion on an annualized basis. This level of investment contrasts with the budgets of other popular games like Grand Theft Auto V and Red Dead Redemption 2.
+
+Roblox has invested heavily in its platform, with R&D costs surpassing those of other gaming companies such as Sony's PlayStation group and Epic Games' Unreal Engine. Roblox's R&D investments are diverse and include improvements in developer tools, server architecture, machine learning, artificial intelligence, rendering for virtual reality, and motion capture. While Roblox comes close to meeting the definition of a metaverse, no real-time rendered virtual world can currently be experienced synchronously and persistently by an unlimited number of users.
+
+Roblox is considered a Metagalaxy rather than a Metaverse because most virtual works will exist outside of it. While virtual giants such as Roblox and Minecraft are growing, the number of virtual experiences, innovators, technologies, opportunities, and developers are all growing faster. Despite being among the most popular games in the world, Roblox and Minecraft's reach is still modest when considering the broadest terms of the global internet population. Microsoft's acquisition of Minecraft in 2014 had more monthly active users than any AAA video game in history, but it had ceded its crown to Roblox, which now has nearly twice the daily users as Minecraft had monthly.
+
+- The past decade has seen the rise of Immersive Virtual World Platforms (IVWPs). - Some of the most successful IVWPs include Roblox, Minecraft, and Fortnite. - Other popular IVWPs include Free Fire and Grand Theft Auto Online. - There are many new IVWPs currently in development, including offerings from Krafton and Riot Games. - Some IVWPs are being developed with blockchain technology and aim to give users more ownership and control. - Facebook's Horizon Worlds is focused on VR and AR, while Roblox prioritizes traditional screen interfaces. - Rec Room is an up-and-coming IVWP.
+
+- VRChat and Rec Room are immersive VR world platforms with growing user bases and high valuations. - Niantic is developing its own augmented reality and location-based virtual world platforms. - Competitors may displace current market leaders, but established platforms like Facebook have a history of copying and incorporating successful features from rivals. - Despite Facebook's efforts to curb the growth of competing services, these services continue to expand, with TikTok surpassing 1 billion users in 2021. - The top integrated virtual world platforms are growing fast but face potential competition from new entrants.
+
+Roblox, Minecraft, and FNC make up a small portion of the gaming industry, representing less than 2.5% of gaming revenues and reaching fewer than 500 million players. Unity and Unreal Engines are the major players in the industry, with many more professional developers using them. The value of virtual worlds and the Metaverse increases the incentives for developers to in-source their technology stack. However, many developers still use Unity or Unreal as a game engine, along with other providers for live services.
+
+Building standalone virtual worlds outside of IVWPs can be more profitable for developers, as the services are cheaper and offer higher profit potential. Games and game engines only represent a portion of the Metaverse, with other categories having their own software solutions for rendering and simulation. Unity and Unreal have expanded into non-gaming categories, including engineering and computer-aided design. The use of game engines to power simulations allows for a Metaverse that spans both the physical and virtual planes of existence.
+
+Virtual software is a growing field with competition among companies like Autodesk and Dassault. While Unreal and Unity have limited functionality in other domains, new software companies are emerging to customize these engines for architects, engineers, and facility managers. Matterport is a multi-billion-dollar platform that converts scans from devices to produce 3D models of building interiors, primarily used by property owners. Planet Labs scans the planet and provides data for various industries.
+
+Planet Labs scans the earth via satellite daily to make the entire planet legible to software. There will likely be many popular virtual worlds and platforms, which is a good thing to prevent a single company from gaining too much power. The Metaverse could potentially be more powerful than any government, and current concerns about big technology companies could expand as more of our lives move online. The shift to the Metaverse could lead to a corporation operating the physics, real estate, customs policies, currency, and government of a second plane of human existence, raising questions about control and power.
+
+The article discusses the need for interoperability between different Metaverse platforms rather than having a single dominant one controlled by a single company. The author highlights the complexity of virtual objects like trees in the Metaverse and how compatibility issues between different gaming platforms can arise. The example of Fortnite and its evolution from a cooperative survival game to a battle royale game is used to illustrate the potential for copyright infringement and the cannibalization of player base. The article concludes by emphasizing the need for interoperability between Metaverse platforms to benefit economies, developers, and users.
+
+The article discusses the challenges of interoperability in the Metaverse and how virtual assets are actually data. The example of physical shoes and their universal compatibility is contrasted with the need for active admission and understanding of virtual assets. The fragmentation of file formats and rendering engines further complicates interoperability between virtual worlds and software systems. The article concludes by highlighting the need for standardization and collaboration to achieve interoperability in the Metaverse.
+
+The diversity in file formats used in gaming and virtual worlds is due to the lack of standards when the industry began to emerge, and also because of the intense computational and networking demands of modern gaming. The standardization of online languages and media is a result of the late arrival of for-profit businesses to the internet, which adopted existing standards. Full standardization in gaming and virtual worlds would likely mean underserving one application and falling short on another. Additionally, the challenge of standardization goes beyond file formats and involves ontological questions, particularly in 3D.
+
+Agreement on the nature of interactive objects, particularly avatars, is difficult, as attributes beyond visuals, such as motion, must be considered. This requires data conventions and systems for interoperability. Additionally, to prevent infinite copies of virtual goods, technical standards and systems for value and trade must be established in the Metaverse.
+
+Creating an economy of interoperable virtual objects poses significant challenges in the video game industry. Managing ownership, transaction processing, and modifications to virtual goods requires tracking and validation systems. In-game economies are typically managed by publishers through fixed prices and limited exchange rates, which restrict the ability to buy, sell, or trade virtual goods. The difficulty lies in balancing the desire for profit with maintaining the fun factor of the game.
+
+Creating a virtual goods marketplace with interoperability in the gaming industry requires aligning on common standards and secure data-sharing models. Publishers fear competition and loss of revenue from players buying virtual items from competitors. Achieving interoperability requires technical concessions and a consent to unprecedented data-sharing models. Interoperability is achievable but requires nuance, as not all virtual items can be made interoperable.
+
+Standards and regulations vary globally for clothing, equipment, currency, and identity. There are different rules for different locations, such as carrying a shotgun or driving on a golf course. Businesses and networks may also have limitations and restrictions. Interoperability in the Metaverse is a current challenge.
+
+The Metaverse is not binary and depends on how much and how many virtual worlds will share. Economics plays a significant role in user spending, and the theory suggests that liberating purchases from a single title will lead to more purchases and higher prices. The utility of virtual goods is limited by ownership restrictions, and expected obsolescence constrains consumer spending.
+
+Gaming platforms often prohibit users from reselling or trading virtual items, and even if they do allow it, there are limitations. Roblox only allows limited items to be resold by premium subscribers. Additionally, virtual items are licensed and can be repossessed at any time, which makes investing large amounts of money in them risky. Ownership rights are essential for investment and profit, and if the Metaverse is to succeed, firm ownership rights must be established. Stakeholders in virtual worlds have incentives and risks that point in this direction, and it's dangerous for developers to limit their services by the popularity of a given platform or its economy.
+
+Limiting investment and range of identity data hinders the Metaverse economy. Toxic behavior in gaming affects everyone negatively, and standardization and interoperation will be driven by economics. The Protocol Wars and credit data sharing serve as examples of the benefits of collaboration. Competing homestay marketplaces are partnering to prevent guests with a history of poor behavior from making future bookings. Game engine companies are pioneers of the Metaverse and demonstrate the power of economic gravity.
+
+As the gaming market has expanded across various platforms, reaching all potential players has become increasingly difficult and expensive. The numerous platforms, devices, and hardware builds require unique coding, which is time-consuming and costly to support. Ignoring a large part of the market is also not feasible. The internet serves as a common ground for communication online, with various networks and protocol suites fragmenting online networking.
+
+In the past, experts predicted fragmented networks that would be unable to communicate with each other, but the internet became the core gateway between all private and public networks, enabling communication between all networks. Cross-platform game engines like Unity and Unreal emerged as a response to fragmentation, allowing developers to publish games across all platforms, increasing revenue potential at little incremental cost. The proliferation of these game engines should make it easier to bring together the many fragmented virtual worlds into a unified Metaverse.
+
+Sony did not support cross-play, cross-purchasing, or cross-progression between games played on its PlayStation and other platforms, which was seen as a consequence of its dominant market position. However, in response to the success of Fortnite, Sony enabled cross-play, cross-purchasing, and cross-progression. Fortnite's focus on cross-platform gaming led to Sony's change in policy, and nearly every game that could support this functionality offered it.
+
+Fortnite's rare attributes, including being playable on multiple platforms and being a social game built around live services, made it the most popular AAA game globally. Sony's gaming competitors embraced cross-platform services for Fortnite, but Sony's lack of cross-platform integration meant it had the worst version of Fortnite and was missing out on most of the game's revenue. Sony's thinking fundamentally changed when it realized that denying cross-platform capability was driving PlayStation players to competing platforms.
+
+Sony changed its policy on cross-platform play due to pressure from upset users and Epic accidentally activating it on PlayStation without permission. Cross-platform play, progression, and purchasing allows for wider accessibility and competition among consoles. Sony's decision also provides a view into potential economic solutions for interoperability. Sony required Epic to pay twice to avoid revenue leakage, and Discord's success is another example of the benefits of cross-platform gaming.
+
+Before Discord, gamers on different platforms could only interact within cross-platform games using game-specific IDs. Discord offered a solution by creating a platform where gamers across all major computing platforms could access a single social graph. Discord's success led to Xbox and PlayStation announcing native integrations of Discord into their closed platforms. The standardization of 3D object conventions is complex, with billions of dollars spent on non-standardized virtual objects and environments in various industries. There is a need for a standardization solution.
+
+Interchange solutions are emerging to tap into the virtual gold mine of previously created and fragmented asset libraries. Nvidias Omniverse and Industrial Light & Magic's Helios are good examples. As 3D collaboration grows, standards will naturally emerge. USD provides a common language for defining, packaging, assembling, and editing 3D, with Nvidia likening it to HTML, but for the Metaverse. Collaboration leads to formal and informal conventions.
+
+Globalization has led to de facto standards in currencies, units, and exchange, and has also made English the preferred language for international communication. Software doesn't require everyone to speak the same language, and Epic Games is pioneering data standards for repurposing assets across multiple environments. Epic Games' Rocket League has gone free-to-play and has been used in limited-time modes to unlock exclusive outfits and achievements in Fortnite, and Epic's acquisition of Tonic Games Group is part of its investments in building the Metaverse.
+
+Epic Games aims to establish a cross-title assets and achievements model to reduce friction in accessing different games, encouraging players to spend more time and money across a greater diversity of titles. Socially focused software giants like Facebook are also looking to establish common standards and frameworks for shared virtual goods, such as adding interoperable avatars to their authentication APIs. Developers benefit from more registered users with simpler and faster solutions, while players benefit from ease of access and user expression in 3D space.
+
+Using consistent avatars across virtual platforms can offer a better user experience and reinforce identity. The establishment of cross-title services such as Facebook and Epic Games drive standardization and asset interoperability, even across competing intellectual properties. Virtual platforms like Fortnite have become an important part of consumer marketing and brand building, but brand owners must embrace unlimited-term licenses, overlapping marketing windows, and little editorial control to participate in these experiences. Players can dress as different characters and use various items from different brands.
+
+The interoperability of virtual worlds will lead to new business models and revenue streams for developers, similar to the rise of free-to-play game monetization. Financial incentives and competitive pressure will eventually drive developers to figure out how to support Metaverse business models, and interoperability will create new products to sell to players. However, not all virtual worlds will move to a widely interoperable model.
+
+Before examining blockchains, cryptocurrencies, and non-fungible tokens in the context of the Metaverse, the role of hardware and payments needs to be examined. Different game engines have varying conventions for fundamental data, and AAA refers to high-budget video games. The development of new devices for accessing and operating the Metaverse, such as augmented and virtual reality headsets, is exciting but not required for the Metaverse. However, big-tech executives continue to invest in these devices despite low sales.
+
+Google continues to support its AR device, Google Glass, and has spent $1-2 billion acquiring AR glasses start-ups. Google's first VR platform, Google Cardboard, sold over 15 million viewers in five years and had nearly 200 million Cardboard-enabled app downloads, but was shut down in 2019. Google's second VR platform, Daydream, was launched in 2016 with improved quality but was also discontinued.
+
+Google's Daydream VR platform, which had a dedicated handheld remote control and could be strapped to the user's head, received positive reviews but failed to generate consumer interest and was cancelled in 2019. Despite this, Google still sees AR and VR as central to its Metaverse strategy and plans to release a new headset platform in 2024. Amazon's Fire Phone, which featured four front-facing cameras and a software tool called Firefly, was the company's biggest failure and was cancelled after a year. However, Amazon has continued to work on new products such as Echo Frames, a pair of glasses lacking any AR or VR capabilities.
+
+The Echo Frames released in 2019 and an updated model released in 2020 did not sell well despite having integrated audio, Bluetooth, and Alexa. Mark Zuckerberg is a strong advocate for AR and VR devices and Facebook's annual Metaverse investments mainly focus on AR and VR. Facebook's Oculus Quest 2 has sold over 10 million units, but it has not replaced the PC, and Facebook has not released an AR device. Apple has been acquiring start-ups and filing patents related to VR and AR, but has not made any public announcements about their plans for these technologies.
+
+Midsize social technology players are investing in proprietary AR/VR hardware despite little experience in producing or distributing consumer electronics, with a belief that history will repeat itself and new devices will emerge to better suit the capabilities of computing and networking. Companies such as Microsoft, Facebook, Snap, and Niantic see AR and VR as an opportunity to displace dominant platforms like Apple and Google. The US Army's deal with Microsoft to buy up to 120,000 customized HoloLens devices for $22 billion validates the belief that AR and VR are the next big device technology. Technical shortfalls in current AR and VR headsets may be holding up mass adoption, with some comparing them to Apple's ill-fated Newton tablet of the smartphone era.
+
+Early mobile devices lacked features such as access to mobile data networks and a finger-touch interface. VR devices require high resolution and refresh rates to overcome pixilation issues and avoid disorientation and nausea. AR devices have limitations in terms of field of view and frame rate, with even the most advanced devices leaving a large portion of a user's eyesight without augmentation. These devices come at a range of prices, with some being more accessible than others.
+
+AR and VR devices face significant challenges such as weight, battery life, and processing power. The challenge of fitting a supercomputer into a normal-looking glasses frame may be the hardest technology challenge of our time. There may be limitations to what is possible with AR and VR headsets due to processing power requirements, and the need for comfortable head-worn devices. Graphics and user capacity are also limited, as seen in Facebook's Oculus Quest 2. These limitations may prevent AR and VR from becoming mainstream devices.
+
+The use of AR and VR devices is expanding beyond gaming consoles and PCs, with features such as cameras that track users' movements and facial expressions. However, these added features also add weight, bulk, cost, and computing and battery power requirements. The challenge is to develop more powerful yet smaller devices that can minimize neck strain and fit under a helmet. Billions of dollars are being spent annually to solve these technical challenges.
+
+Improvements in AR and VR devices will be a constant process driven by reducing size and price, increasing computing power and functionality, and providing unique experiences. The success of a platform will ultimately depend on its innovations and how components are brought together. Apple's success with the iPhone was due to its focus on consumers, touchscreen interface, and higher price point, which ultimately proved to offer superior value.
+
+The iPhone's home button was a novel design element that Steve Jobs saw as essential to introducing consumers to touchscreens and pocket-sized computing. The button took up space that could have been used for a larger screen, longer-lasting battery, or more powerful processor, but it allowed users to easily navigate back to the main screen and eventually enabled multitasking. Apple delayed implementing multitasking to ease users into mobile computing.
+
+Apple delayed removing the physical home button until 2017, preferring to introduce new technology when users were ready for it. Choices that seem obvious now were once controversial, such as pinch-to-zoom and slide-to-unlock. The app store model was also controversial, with BlackBerry launching their app store two years after Apple. The VR and AR race echoes the smartphone wars, with different companies targeting different markets and price points.
+
+- Facebook is focusing on VR before AR, and may use cloud game streaming for richly rendered simulations. - Zuckerberg believes Facebook's AR devices will emphasize face and eye tracking, while competitors focus on device size and aesthetics. - Oculus will remain open to enable developers to distribute their apps directly to users, but this raises privacy concerns with the growing number of cameras on the device. - Hardware challenges for AR and VR are greater than those for smartphones, and interface design will be harder. - There are other efforts to produce new Metaverse-focused hardware, such as smart gloves and bodysuits, that complement computing devices.
+
+- Haptic wearables provide physical feedback to simulate virtual experiences. - Haptic vibration technology has advanced to create context-specific resistance and sensations. - Some haptic devices emit ultrasonic sound to create a force field in the air, which can detect user interactions. - Gloves and bodysuits can capture a user's motion data to reproduce their body and gestures in a virtual environment.
+
+The use of tracking cameras in the Metaverse may be limited as they require unobstructed views and can struggle to track multiple users. Smart wearables such as Apple Watch or CTRL-labs' armbands can offer impressive capabilities by using sensors such as electric heart monitor, gyroscope, and accelerometer to track gestures and movements, even reproducing minute gestures like raising individual fingers. CTRL-labs' armbands use electromyography to record electrical activity from skeletal muscles, enabling users to map their fingers to robotic movements.
+
+Facebook plans to release its own line of smart watches that will have their own wireless data plan, detachable cameras, and will be integrated into third-party items. Google acquired Fitbit for over $2 billion and is expected to integrate wearables into clothing. As wearables become smaller and more integrated, they will enhance users' interactions with the Metaverse. Some believe that the future of computing is in smaller devices like Google Contact Lens, which was intended to help diabetics monitor their glucose levels using wireless chips, antennas, and sensors placed between soft lenses. However, the project was discontinued.
+
+Smart lens technology continues to attract investment from major tech companies despite the cancellation of Google's lens program due to inconsistent measurements of tear and blood glucose correlation. Brain-to-computer interfaces (BCIs) have been under development since the 1970s and remain a challenge due to invasive nature, but Elon Musk's Neuralink has developed a sewing machine-like device to implant sensors into the human brain. Facebook has announced the end of its BCI program, while Neuralink has demonstrated a monkey playing Pong using a wireless implant. Smart lens technology appears more achievable compared to BCIs.
+
+Facebook has ended its BCI program and will focus on a neural interface approach with a nearer-term path to market for AR/VR. The ethical concerns around BCIs may hinder their path to market. Google's Project Starline uses depth sensors and cameras to create a more immersive videoconferencing experience. The hardware around us will play a significant role in our transition to the Metaverse.
+
+The Starline video call system results in better focus, non-verbal communication, and memory recall. High-quality scanning devices, such as Leica cameras, Quixel cameras, and Planet Labs' fleet of satellites, make it easier and cheaper for companies to create mirror worlds or digital twins of physical spaces. Planet Labs' satellites cover nearly the entire earth daily across eight spectra bands, producing daily high-resolution imagery including details such as heat, biomass, and haze. Will Marshall, the CEO and co-founder of Planet Labs, believes that the cost per performance of these satellites has improved by 1,000 times since 2011.
+
+Real-time tracking cameras, such as those used in Amazon Go stores, can be used to reproduce customers as digital twins in real time. Googles Starline and hyper-detailed projection cameras can also enable virtual objects, worlds, and avatars to be transplanted into the real world with realistic detail. Sensors and wireless chips can enable a construction site to be monitored in real time. While not all experiences require the Metaverse, it can enhance many human experiences.
+
+
+
+ 3D environments and data presentation are more intuitive than traditional digital interfaces. 
+
+ Google's second-largest acquisition ever was of Nest Labs, which operates smart sensor devices. 
+
+ Most devices for the Metaverse era will likely be those already in use, with estimates of fewer than 250 million active VR and AR headsets in use by 2030. 
+
+ AR and VR devices face technical, financial, and experiential obstacles, and will not be a person's first or only computing device.
+
+
+
+ AR and VR may replace most devices in the future, but they will likely be one of the least powerful and not a person's primary computing device. 
+
+ Smartphone and tablet devices are rapidly improving and have hundreds of millions of users spending hours each day in virtual worlds. 
+
+ Smartphone advancements like infrared sensors and lidar scanners enable facial recognition and the creation of virtualizations, transforming companies like Matterport.
+
+Smartphones, particularly iPhones, offer advanced features such as high-resolution cameras that can create virtual objects and models, and ultra-wideband (UWB) chips that emit radar pulses to create detailed maps of indoor spaces for precise location tracking. These features enable new mixed reality experiences and applications, such as automatically unlocking doors based on location and navigating virtual environments without removing VR headsets. These capabilities have contributed to the increase in the average sales price of iPhones over time.
+
+Consumers are willing to pay more for advanced capabilities in smartphones, rather than cheaper prices for the same capabilities. Some believe that smartphones will serve as users' edge computers, providing connectivity and compute to the world around us. Smartphones already rely on more powerful devices, such as iPhones or cloud servers, to perform complex tasks like Siri queries or photo storage. VR headsets must double screen resolution and increase frame rates for mainstream adoption.
+
+Sony's PlayStation VR2 platform has better specs than the Oculus Quest 2 but requires a PlayStation 5 console and is more expensive. It makes sense to focus on a single device's capabilities rather than invest in multiple devices with limitations. Personal data privacy is important, and it's better for data to be sent to a trusted device rather than multiple devices. The devices required for the Metaverse can be grouped into three categories: primary computing devices (e.g. smartphones), secondary/supporting computing devices (e.g. PCs, AR/VR headsets), and hardware as the gateway.
+
+The devices required for the Metaverse can be categorized into primary, secondary, and tertiary devices, each increasing engagement time and revenue. However, manufacturers and operators hold significant power over what technology is used and how it works, and can take a cut of economic activity. Understanding payments is key to understanding this power dynamic. Physical devices are the gateway to accessing and creating Metaverse experiences.
+
+China has fewer than 500 satellites and Russia has fewer than 200, but their satellites are typically larger and more capable than those of Planet Labs. Lidar technology is used to measure distance and shape of objects. The success of the Metaverse, a parallel plane for human leisure, labor, and existence, will depend on a thriving economy that follows the patterns of the real world, with attributes like rigorous competition, trust in rules and fairness, consumer rights, and a constant cycle of disruption and displacement. The US economy was built by millions of businesses, including small-to-medium businesses that employ over half the workforce and are responsible for half of GDP, while Amazon generates hundreds of billions in sales.
+
+Apple designs an ever-growing portion of its iPhone components, but most of them come from competitors who often war over prices, enabling Apple's competitors. Apple struggled in the 1990s but became the most valuable company in the world through products like the iPhone and App Store. The American economy is supported by a legal system that covers everything made, sold, and bought, instilling faith in market participants that their agreements will be honored. The success of Apple and other internet giants is due to the existence of a middle ground between free market competition and fairness that benefits all parties.
+
+The development of companies born during the PC era like Google and Facebook is linked to the Microsoft antitrust case and the first sale doctrine. Payment rails are important for the Metaverse and are complex digital ecosystems that are difficult to build and profitable. Visa, MasterCard, and Alipay are among the most valuable public companies in the world, along with other tech giants and financial conglomerates.
+
+The fight to become the dominant payment rail in the Metaverse is the central battleground and greatest impediment. The article explains the major payment rails of the modern era, the role of payments in the gaming industry, and how mobile payment rails are being used to control emergent technologies and stifle competition. The article also discusses how blockchains and cryptocurrencies are seen as the first digitally native payment rail and a solution to the problems plaguing the current virtual economy. The most common payment rails in the United States are Fedwire, CHIPS, ACH, credit cards, PayPal, and peer-to-peer payment services like Venmo. These rails have different requirements, merits, and demerits.
+
+Fedwire is a system used for wire transfers between banks, the sender and receiver both need to have a bank account. Wires can only be sent on non-holiday weekdays and during business hours, and once sent, cannot be reversed. Significant fees are charged to both the sender and recipient, making small-dollar value wires impractical. CHIPS is a competitor to Fedwire established by major US banks to reduce transfer costs, departing from Fedwire's real-time settlement. Each bank holds outgoing CHIPS wires until the end of the day and then netted against all incoming CHIPS wires from that same bank.
+
+CHIPS is a system established by US banks to reduce transfer costs, departing from Fedwire's real-time settlement. International wires typically take two to three days due to time zones, money-laundering protections, and other governmental restrictions. Wires are the most secure way to send money, but mistakes are time-consuming to correct. $992 trillion in value was sent via US Fedwire in 2021, while CHIPS cleared over $700 trillion. ACH payments can only be made during business hours and require both the sender and recipient to have a bank account. The fees associated with ACH payments are seen as their primary limitation, and their geographic limitations increase costs.
+
+
+
+ ACH-based transfers are free or low cost for customers and businesses. 
+
+ ACH payments are reversible and allow payment requests from recipients, making it ideal for bill payments, vendor and employee payments. 
+
+ US ACH processed an estimated $70 trillion in 2021 with an average of roughly $2,500 per transaction. 
+
+ ACH transactions take 1-3 days to clear, with no confirmation of successful transactions. 
+
+ Credit cards emerged in the 1950s, allowing for digital transactions between customers and merchants.
+
+
+
+ Credit cards enable quick transactions without exchanging detailed bank information but charge merchants a higher fee of 1.5% to 3.5% per transaction. 
+
+ Late payments and interest can result in paying over 20% per year on top of relevant transactions. 
+
+ Credit card payments can be reversed and work across all markets globally. 
+
+ Digital payment networks such as PayPal and Venmo require funding from ACH, credit card or transfer from another user. 
+
+ PayPal and Venmo serve as a centralized bank used by all accounts for transfers between users.
+
+Digital payment platforms like PayPal, Venmo, and Square Cash App process trillions of dollars annually with varying fees, security, and speed. Transactions between friends and family are typically free, while payments to businesses involve fees of 2-4%. Moving money from the platform to a bank account incurs a 1% fee. These platforms are geographically limited and cannot support peer-to-peer payments outside their networks. Different payment rails compete with each other based on advantages and drawbacks, and even within a single category, there are various fee structures. The credit card operator American Express charges more but offers more lucrative perks, while Visa is cheaper. Users have multiple alternatives available, and some transfers can be made for free by lending money to a network for two to three days.
+
+Despite the virtual economy's growth and potential for innovation, its payment rails are more expensive, slow, and less competitive than those in the real world. Virtual payment rails are actually a stack of different real world rails and forced bundles of many other services. The 30% fee for game cartridges, which became an industry standard, still exists today for in-app purchases and other virtual transactions. The virtual economy is large, with consumers spending more than $150 billion on digital-only video games and in-game goods in 2021, but payment rails remain inefficient.
+
+The 30% fee for in-game purchases on console platforms covers the costs of underlying payment rails and enables game developers to make money. Console platforms sell consoles at a loss and invest in research and development, marketing, and exclusive content to encourage adoption. The platforms also provide tools and APIs and operate online multiplayer networks and services, which they recoup through the 30% fee. However, the fee is not set by the market and is largely borne by consumers.
+
+Consoles sell at a loss and do not compete with each other for developers. Offering better terms would not benefit any one platform as game-makers release titles on multiple platforms. Proprietary tools, APIs, and services add costs to developers and produce limited value, locking in customers and developers. Collections of APIs such as OpenGL are available for free and open-source use, but console platforms require developers to use their proprietary tools, APIs, and services.
+
+Each platform requires different proprietary APIs to run games optimally, making cross-platform game engines popular. Multiplayer games used to rely on Xbox Live for online services, but now most developers manage their own live operations due to the shift towards cross-play.
+
+Game developers are obligated to pay a full 30% to gaming platforms and work through their online account systems, creating distance between developers and players and justifying the platforms' fees. Digital copies of games are tied to the platform they were purchased on, making it expensive to switch to a different platform. Platforms also retain game-related content and prevent cross-platform gaming, making it harder for players to switch to other platforms.
+
+The billing solution offered by gaming platforms is bundled with various other services, and the fee charged to developers and users remains the same regardless of their needs or circumstances. Steam, launched in 2003, overcame the challenges of managing multiple credentials, credit card receipts, and updates by providing a centralized platform for purchasing, downloading, and updating games.
+
+Steam was launched in 2003 as a game launcher that solved the challenges of managing multiple game installer files, updating games, and player rights. It provided additional services such as a social network, multiplayer matchmaking, and voice chat at no additional cost to developers or players. Steamworks was made available to games not sold on Steam, but developers had to use Steam's payment service for in-game transactions, netting Steam 30% of ongoing revenues. Steam's technical innovations have made it one of the most important innovations in PC gaming history.
+
+Valve's Steam platform remains dominant in the PC gaming industry despite the commoditization of distribution, rights management, and online services. Competitors such as EA Origin and Amazon have struggled to disrupt Steam's centrality and success. Steam's bundling of distribution, payments, online services, and entitlements has protected its position in the market. The platform's outstanding service and rich feature set also contribute to its ongoing success.
+
+Steam's bundling of distribution, payments, online services, and entitlements forces publishers to pay ongoing revenues to the platform even if they sell their game elsewhere. Steam's most favored nations clauses prevent publishers from offering lower prices on competing stores, making it difficult for new platforms to compete. Epic Games Store tried to disrupt Steam's dominance by offering lower distribution fees, but Steam's MFNs made it difficult for publishers to cut prices on competing stores without cutting prices on Steam as well.
+
+Epic Games Store (EGS) offers benefits like game ownership and player data ownership to its customers with lower store fees, bringing in players through hit game Fortnite and free game giveaways. EGS cannot offer lower prices on non-exclusive titles due to Steam's MFNs, but Steam announced a commission cut after $10 million in sales, benefiting larger game developers. However, this did not benefit independent developers. Valve declined to open up.
+
+Epic Games Store (EGS) shifted profits from Steam to developers, but has not inspired further concessions from Steam or console platforms. EGS's revenue growth is largely driven by hit game Fortnite, with many players likely using EGS solely for Fortnite or its free games. EGS released 89 titles for free in 2021, drawing players but not leading to much user spending. EGS is accumulating enormous losses and showing limited evidence of sustainable success with players.
+
+Leaked documents suggest that Epic Games Store (EGS) lost millions of dollars in recent years, and the dominant online game distributor has a virtual monopoly. The gaming industry serves as an economic precedent for the Metaverse, with Steve Jobs emulating the 30% commission model used by the gaming industry for his iTunes music store and later the iPhone's app store. Jobs also adopted the closed software model for iOS. The 30% fee charged by game stores includes not only payment processing but also a user's online presence and a developer's obligation to their customers.
+
+Apple's App Store and Google's Play Store have a near-monopoly over the distribution of mobile apps, with Apple being more restrictive than Google. Google technically allows users to download apps from third-party sources but requires them to navigate deep into settings and agree to warnings of potential vulnerabilities. The proprietary model of app stores led to legal challenges by companies like Spotify and Rakuten, alleging anti-competitive behavior by Apple. In 2020, Epic Games sued both Apple and Google over their 30% fees and controls. The delay in addressing these issues was due to the unequal impact of Apple's policies on new economy businesses, leading to allegations of favoritism towards its own software services.
+
+Apple takes no commission for physical product transactions and allows third-party payment rails. Reader apps and interactive apps have different rules for in-app billing, with interactive apps being required to use it. Online browser-based payment alternatives are rarely used due to restrictions on advertising them within the app. The cost savings needed for customers to switch to alternative payment methods vary depending on the purchase price and percentage saved.
+
+Apple's multi-category payment models are based on where they can exert leverage and create value, with a focus on the fast-growing mobile gaming industry. The App Store generated an estimated $700 billion in 2020, with less than 10% billed by Apple and nearly 70% of that 10% coming from games. The App Store's revenue primarily comes from a tiny but fast-growing segment of the world economy, which initially took time to become a large business worth scrutinizing. Apple initially doubted the App Store's success and didn't expect it to generate much revenue.
+
+The App Store has become a highly profitable business for Apple, with revenues of $73 billion and a 70% margin by 2020. Apple's closed platform and control over software prevent competition and allow them to charge a 30% fee for in-app purchases. The Metaverse, and the gaming-like world it creates, will likely be subject to the same 30% model, limiting competition and potentially stifling innovation.
+
+Netflix's decision to remove in-app billing from its iOS app in 2018 was due to the high 30% fee charged by Apple. However, the addition of mobile games to its subscription plan forced Netflix to return to Apple's payment service. The 30% fee charged by Apple stifles investment in the Metaverse, cramps the companies pioneering the Metaverse, and prohibits development of Metaverse-focused technologies. In the Metaverse, everything costs 30%, unlike the real world where payment processing costs much less due to competition. Apple's control over its app stores, hardware, operating systems, and live services limits direct competition.
+
+The digital economy is dominated by two platforms, Android and iOS, which bundle everything together without competition or incentive to cut fees. This has resulted in high commissions charged to small-to-medium businesses and independent developers, which is not a healthy outcome for any economy. Cutting commissions could double the profits of independent developers and lead to better reinvestment in their products. Additionally, the dominance of these platforms creates undesirable economic incentives.
+
+Apple charges a 30% fee for virtual products sold through iOS devices, but not for physical products or virtual products sold with physical products. This creates confusion and chaos for businesses looking to monetize in the Metaverse. Apple's policies will shape the future of the Metaverse's monetization, and small startups may struggle to rely on pre-Metaverse business lines. As more businesses enter the Metaverse, these problems are likely to grow.
+
+The article discusses the challenges of in-app payments on app stores like Apple and Android, especially for interactive experiences like virtual world platforms and 3D immersion courses. The high fees charged by app stores can make it difficult for developers to earn a profit, and this can limit investment and innovation in these areas. The article suggests that alternative payment models or regulatory intervention may be necessary to address these issues.
+
+The article discusses the financial breakdown of revenue generated on the Roblox platform through iOS, where Apple takes 30% and Roblox has various costs, leaving only $30 in pretax gross margin dollars. The article suggests that while Roblox has enriched the digital world, it is difficult for them to increase developer revenues without deepening losses or halting R&D. The article also notes that while Roblox's margins may improve over time, it may not be enough to cover their losses or increase developer revenue shares.
+
+Apple's App Store policies, including its 30% cut, limit the growth potential of virtual world platforms like Roblox by depriving them of cash flow while offering developers more revenue. Roblox's largest cost category is infrastructure and safety, which is unlikely to decrease and may increase with R&D. The only remaining cost category is store fees, which Roblox has no control over. The enormity of the price gap between Roblox and standalone apps using Unity or Unreal will likely drive most developers to release standalone apps or bundle together in an education-specific IVWP. In either outcome, Apple becomes the primary distributor of virtual software, with the App Store providing discovery and billing services.
+
+Many in the Metaverse community believe that the web and web browser should be the focal point of all Metaverse development, as the World Wide Web is a massively scaled and interoperable network of websites running on common standards. Several open standards are being developed for rendering, executable programs, persistent virtual spaces, and modern 3D graphics inside a browser. Apple's argument that its platform isn't closed because it provides access to the open web is not convincing, as apps written natively for a given device have more efficient and consistent performance than web pages and web apps.
+
+Web-based experiences on iOS devices are less efficient and reliable than native apps due to the need to speak through a translator and use generic code. Rich real-time 2D and 3D environments are computationally intensive, making them largely precluded on the web. Apple controls the App Store to prevent competing browsers on iOS devices, and Safari defines what the nominally open web can and cannot offer. Critics argue that Apple directs developers and users to native apps to collect commissions. WebGL is an example of a JavaScript API that has not been fully adopted by Safari, limiting complex browser-based 2D and 3D rendering.
+
+Apple's iOS policies limit the headroom of web-based gaming and push developers and users towards its App Store. Apple's mobile browser typically supports only a sub-selection of WebGL's total feature set, reducing the potential for browser-based gaming. Cloud gaming threatens Apple's relationship with mobile app developers by allowing users to access computing resources that far outstrip those contained in a device, making expensive devices with large hard drives unnecessary. Developers must use Apple's proprietary API collection, Metal, to release an iPhone game through the App Store.
+
+For years, Apple blocked cloud gaming applications but allowed Google's Stadia and Microsoft's Xbox to have an application that did not actually load games. Cloud gaming was technically possible on iOS devices through Safari, but experiential limitations made browser-based gaming unsatisfying. Apple argued that cloud gaming was banned to protect users, but this argument was inconsistent with other app categories and policies.
+
+Critics argue that Apple's policies were motivated by the desire to protect its own hardware and game sale businesses. Apple revised its policies to allow cloud gaming services, but they are widely described as anti-consumer. Cloud gaming services need to submit every single game and future update to the App Store for review and maintain a separate listing, effectively giving Apple control over content release schedules and the ability to deny any title. Users would also need to download a dedicated app for each individual game.
+
+Apple's policies for game streaming services require each game to be a separate app, causing confusion for users and potential empty apps. All game streaming services must be sold through the App Store, unlike other media bundles like Netflix and Spotify. Subscription-based games must also be available for individual purchase through the App Store, which differs from Apple's policies with music, video, audio, and books. Microsoft and Facebook have criticized Apple's policies, which they claim create a bad experience for customers.
+
+Microsoft and Facebook criticize Apple's policy for game streaming services, stating that it restricts discovery of new games and access to high-quality games instantly. Apple's strict controls over payment rails, specifically its NFC chip, prevent other payment options except for Apple Pay. Apple claims this policy is to protect customers and their data, but it could introduce a policy to provide NFC access only to trusted payment providers.
+
+The article discusses Apple's use of NFC technology in its Apple Pay system and potential security concerns with third-party access to the NFC chip. It also touches on Apple's potential role in the future Metaverse and its policies on blockchain and cryptocurrency applications in the App Store.
+
+The article discusses the prohibition of blockchain and cryptocurrency applications on major platforms such as Apple and Sony, citing reasons such as excessive battery drain and strain on device resources, though it's argued that users should have the right to manage their devices. The article also suggests that these platforms may refuse blockchain games and NFTs due to revenue models and commission concerns.
+
+Apple's support for cryptocurrencies and NFTs on its app store has led to confusion for developers and customers. While users can buy and sell cryptocurrencies through trading apps, they cannot purchase NFTs through these same apps. Additionally, Apple's policies restrict blockchain-based games on iPhones, limiting them to simple 2D graphics and turn-based play. The limitations stem from the conflict between virtual payment rails and the physical world, which presents a challenge for the development of the Metaverse.
+
+The development of the Metaverse requires hardware, but every hardware player is fighting to become the payment gateway, bundling their hardware with various APIs, app stores, payment solutions, identities, and entitlement management, which increases store fees, staves off competition, and harms individual users and developers. Regulatory efforts to introduce more competition have been stymied, and there are only two smartphone platforms with extensively bundled stacks. Even when laws are passed to prevent monopolistic practices, companies find ways to circumvent them. The most popular virtual worlds are designed to run on as many devices and operating systems as possible, and simulations exist irrespective of a given device or system.
+
+Dutch regulators ordered Apple to allow third-party payment services for dating apps, leading to Apple updating its store policies in the Netherlands, allowing developers to issue a Dutch-only version of their app with an alternative payment system. However, this new version would not be able to use Apple's own payment solution, and Apple would enforce a new transaction fee of 27%. Facebook is committed to building its own AR and VR devices, as it is familiar with how operating solely on the platforms of its largest competitors is an impediment.
+
+Horizon Worlds is limited in offering developers a greater cut of revenues than iOS or Android. Apple's App Tracking Transparency changes require explicit opt-in permission from users, reducing the efficacy of advertising and prompting more developers to focus on in-app payments where Apple collects a fee. Facebook needs to build its own devices to run independently of an iPhone or Android device to solve this problem, but this may result in more expensive, technically limited, and heavier devices.
+
+
+
+ New computing devices may not disrupt the digital era as most of the supercomputer is already in people's pockets through mobile phones. 
+
+ The use of payment rails, such as China's WeChat, can transform economies by enabling direct bank account connections without intermediaries, leading to low transaction fees and easy adoption. 
+
+ WeChat's success also helped build up the domestic video gaming industry in China.
+
+
+
+ WeChat's success in China transformed the country's economy by enabling direct bank account connections without intermediaries, leading to low transaction fees and easy adoption. 
+
+ In the West, developers and creators may need to find ways around hardware gatekeepers to allow for the emergence of the Metaverse, which has led to enthusiasm for blockchain technology. 
+
+ Apple's commissions on subscription apps are higher than expected due to industry average churn rates and other factors, and third-party browsers on iOS are forced to use older versions of WebKit.
+
+Blockchains are decentralized databases managed by a network of validators and are structurally required for the Metaverse according to some observers. Unlike centralized databases, blockchain records sit in no single location and are maintained through consensus across a network of autonomous computers situated around the world. This model provides relative incorruptibility, and the larger the network, the harder it is for any data to be overwritten or disputed.
+
+Decentralization has its downsides, as it is more expensive and energy-consuming than using a standard database and many blockchain transactions take a long time to complete. Most blockchain-based experiences store as much data as they can in traditional databases, rather than on the chain. Critics argue that anything that is not fully decentralized is in effect fully centralized, and even if data is fully decentralized, the upside seems modest. However, a decentralized database or server architecture is seen as the future because it offers increased security and trust in transactions.
+
+Blockchains are programmable payment rails and are seen as the first digitally native payment rails. The Bitcoin blockchain compensates processors handling bitcoin transactions with bitcoin, creating a trustless system. Blockchains are also permissionless, allowing anyone to become a network validator without needing approval. These attributes create a self-sustaining system that can increase capacity while decreasing cost and improving security.
+
+As additional validators join a blockchain network, prices decrease through competition, increasing decentralization and making it harder for anyone to manipulate the ledger. Blockchain's trustless and permissionless model allows revenue and profits from operating its payment network to be set by the market, unlike traditional financial services controlled by a few giants. Ethereum is a decentralized network that automatically compensates its operators and allows developers to build their own permissionless and trustless applications and issue their own cryptocurrency-like tokens to contributors. Anyone can program their own applications on top of Ethereum.
+
+Ethereum is a decentralized network that operates without a single decision-maker or managing institution. Its programming can be revised or improved through community governance. Ethereum's trustless and permissionless programming encourages developers to compete with its core functionality. However, it has three primary criticisms: high processing fees, long processing times, and difficult programming language. Competing blockchains, such as Solana and Avalanche, and Layer 2 blockchains have been constructed to address these issues. Layer 2 scaling solutions use techniques such as batching transactions together and simplifying transaction validation.
+
+Validators in Ethereum can propose transactions without solving the underlying cryptographic equation, but can be kept honest through bounties paid by dishonest validators. Sidechains allow tokens to be moved on and off Ethereum. Layer 2 solutions are seen by some as patchwork solutions, but their trustless and permissionless programming allows for easy shifting of tokens to other blockchains. Comparison to iOS is unfair, while Android's development is steered collectively by the Open Handset Alliance.
+
+
+
+The Open Handset Alliance (OHA) was launched to prioritize open source technologies and standards. 
+
+ 
+
+34 members including China Mobile, T-Mobile, LG, HTC, Sony, Motorola, and Samsung joined OHA.
+
+ 
+
+To join, members had to agree not to fork Android or support those who did.
+
+ 
+
+In 2012, Google began moving its key services outside of the operating system and into a software layer, Google Play Services.
+
+ 
+
+Many analysts considered Android's progressive closure a response to Samsung's growing success with the operating system.
+
+ 
+
+Samsung sold nearly 40% of Android-powered smartphones in 2012, and had become increasingly aggressive with its alterations to the stock version of Android.
+
+
+
+
+
+Samsung's TouchWiz OS threatened to disintermediate Google from its developers and users.
+
+ 
+
+The success of the Metaverse may disrupt current gatekeepers such as Apple or Google.
+
+ 
+
+Many fear that new gatekeepers may emerge, such as Roblox Corporation or Epic Games.
+
+ 
+
+Tencent's WeChat charges high fees for in-app downloads and virtual items.
+
+ 
+
+Dapps are only partially decentralized, and the dapp founding team holds a large portion of the tokens.
+
+ 
+
+To attract developers, network contributors, users, and capital providers, dapps sell and award tokens to outside groups.
+
+ 
+
+Many dapps make a commitment to progressive decentralization to maintain community support.
+
+
+
+As successful applications accumulate users and revenue, they tend to become more controlling and use their power to lock in developers and users. This is due to the natural arc of for-profit technology businesses. However, most blockchains are designed to prevent this by creating decentralized governance and preventing the accumulation of too much power. Facebook's shutdown of the social graph feature on Tinder and its launch of its own dating service based on its social graph is an example of this phenomenon.
+
+The blockchain model allows dapp developers to maintain tokens while users have custody of their data, identity, wallet, and assets. A blockchain-based Instagram would never store a user's photos, operate their account, or manage their likes or friend connections. Blockchain enthusiasts believe this can disrupt the traditional developer arc. However, blockchain technology is still below modern expectations for performance. The success of blockchains is evident in the $16 trillion transaction value in 2021, which exceeded that of digital payment giants PayPal, Venmo, Shopify, and Stripe combined. Ethereum processed more transactions than Visa in the fourth quarter without a central authority.
+
+Blockchain technology enables independent and anonymous transactions across multiple wallets without the need for a bank account or long-term agreements with specific providers. Transactions are completed within seconds to minutes and can be confirmed by both sender and receiver without additional fees. Blockchain wallets can be programmed for automatic debits, credits, and reversals. While the majority of transactions are investments and trading in cryptocurrencies, blockchain also enables the creation of unique, non-fungible tokens that provide a truer sense of ownership for virtual goods.
+
+Blockchains provide a trustless and permissionless way for users to buy, sell, and own virtual goods, such as non-fungible tokens (NFTs). NFTs offer a truer sense of ownership and the unrestricted right to resale. Blockchain ownership data is permissionless, and the owner is in control of the token. In 2021, $45 billion was spent on various NFTs, including NBA Top Shots, Cryptopunks, Axies, and Bored Apes, but it is not clear how this compares to traditional video game content managed by a traditional database.
+
+The value of NFTs is being debated in comparison to traditional virtual assets. While NFTs allow for reselling and trading, their actual market value is difficult to determine. Critics argue that much of their value is speculative, unlike traditional assets such as Fortnite skins. The floor market cap of the 100 largest NFT collections was estimated at $20 billion, while the traditional gaming market was valued at $100 billion. However, NFTs have the potential to generate programmatic rent, making them valuable to blockchain enthusiasts.
+
+NFT spending grew significantly in 2021, but sales of traditional virtual items grew at a slower rate. NFT utility is currently limited because most video games do not support them, and major platforms do not support blockchain-based purchases. NFT experiences are currently focused on collecting rather than active play, and few popular franchises have issued NFTs. Interoperability is a key potential upside for NFTs, but most NFTs currently place the rights to the virtual good on the blockchain without the data, making exporting data to another platform impossible.
+
+Blockchain-based experiences are not truly decentralized and NFTs have centralized dependencies, making them useless for now. However, blockchain has the potential to provide a technical solution for virtual goods interoperability and revenue leakage in the Metaverse. The ability to bring assets and entitlements from game to game is hindered by developers' business models, but blockchain can establish a common and independent registry for virtual goods. Virtual goods sellers could emerge and underprice goods sold inside the game. Developers are held back by worry of an open-item economy.
+
+Developers may create valuable content for competitors, and their creations may become highly valuable without them receiving additional profit. Interoperability can be facilitated through taxes and duties, automatic compensation models, and programmed degradation of virtual goods. Blockchain-based virtual worlds and communities can issue cryptocurrency-like tokens to users for contributing time and resources.
+
+Blockchain-based applications can issue tokens that provide users with governance rights and appreciation in value, while reducing the need for investor funding and increasing user engagement. These tokens incentivize good behavior and community involvement, while blockchain technology encourages trust and sustainability. A good example is the competition between Uniswap and Sushiswap, where the latter issued tokens to its users to gain adoption.
+
+Blockchain-based applications can incentivize user engagement through token rewards, leading to a user-beneficial arms race. Blockchains can also support the provision of compute-related gaming infrastructure, such as the Ethereum-based RNDR network and Helium's decentralized wireless network for internet of things devices, both powered by cryptocurrency tokens. These examples demonstrate the potential for blockchain technology to tap into idle computing resources and provide decentralized internet services.
+
+Helium operates a network of over 625,000 hotspots, which compensate users with their HNT token in proportion to usage. The total value of Helium's tokens exceeds $5 billion, and the company has struck deals with ISPs. Helium's long-term viability is uncertain, but it serves as a reminder of the potential of decentralized payment models. Blockchain-based games and gaming platforms received over $4 billion in venture investment in 2021, and talented game developers are focused on building games on the blockchain. Total VC funding for blockchain companies and projects was roughly $30 billion, with an estimated $100 billion-$200 billion more raised or earmarked by venture funds.
+
+Experimentation with crypto wallets, blockchain games, and NFTs can create a virtuous cycle that increases the value and utility of blockchain products, attracting more users and developers. This could lead to a future where exchangeable cryptocurrencies power the economies of countless games, replacing proprietary denominations. Even successful game developers will find blockchain technologies financially irresistible and competitively essential. Decentralized autonomous organizations enable greater independent collaboration and easier funding of new projects. The vending machine serves as an example of how fixed rules can enable a system to work without the need for intermediaries.
+
+
+
+ Blockchains act as a virtual vending machine that can track multiple contributors and value them differently using smart contracts. Smart contracts can serve almost any purpose, be small or massive, and allow independent authors and journalists to fundraise for their work. Smart contracts can be used to automatically share tips, and all of this requires only a cryptowallet with cryptocurrency.
+
+
+
+ DAOs (Decentralized Autonomous Organizations) are Metaverse-era versions of LLCs or nonprofits that use smart contracts to manage administrative work for ongoing operations. They allow instant funding without the need for traditional paperwork or identification of participants. DAOs can purchase NFTs and manage disbursements using their tokens. ConstitutionDAO raised over $47 million to purchase a first edition of the United States Constitution, showcasing the power of DAOs. DAOs have the potential to change the way people buy things, build companies, share resources, and run nonprofits. However, the example of ConstitutionDAO also revealed some of the problems with the Ethereum blockchain.
+
+- A DAO auction to fund the restoration of the US Constitution faced problems due to high gas fees and difficulties in reversing or refunding transactions. - Many donations remain in the DAO due to the high cost of retrieval. - The use of another blockchain or Layer 2 solution could have prevented these issues. - High finance is also using DAOs, such as the Komorebi Collective for venture investments into female and nonbinary crypto founders. - A DAO was used by 5,000 outdoor enthusiasts to purchase land near Yellowstone National Park in Wyoming. - Wyoming passed legislation recognizing the legitimacy of DAOs and is seen as a fundamental link between digital assets, crypto, and the physical world.
+
+- Friends with Benefits is a DAO-based membership club where tokens are used to gain access to private channels, events, and information. - Members buy a certain number of FWB tokens to gain entry and hold them to remain members, making every member a part owner of the club. - Token appreciation incentivizes members to invest time, ideas, and resources into the club and makes it impractical for spammers to join. - Smart contracts are used to issue tokens to individual members for their contributions or to those deemed worthy by members. - Nouns DAO is a remix of FWB with Cryptopunks, where daily auctions of Nouns NFTs fund proposals voted on by NFT owners to enhance the value of Nouns NFTs.
+
+- Social DAOs and tokens can be used to address harassment and toxicity on online social networks - Kickstarter, Reddit, and Discord have plans to shift to blockchain-based token models - Blockchain remains too expensive and slow for large-scale real-time rendered 3D virtual worlds - Ethereum is overhauling its validation process to use less energy per transaction and Layer 2s and sidechains are proliferating
+
+- Solana is a Layer 1 blockchain with better performance than Ethereum - DAOs and smart contracts are not legally recognized in most countries and US states - Users can lie to the blockchain, and blockchains do not make everything trustless - Blockchain maximalists believe its economic forces will force even large corporations to change - Blockchains may lead to cultural change around user and developer rights and interoperability in virtual environments
+
+Blockchains may bring about faster and more democratic advancements such as decentralization, compensation for open-source software, and virtual asset management. They are not expected to become the dominant means of storing data, computing, and payments, but rather a key aspect of experiences, applications, and business models. By offering solutions to issues in virtual culture and disrupting closed platforms, blockchains are believed to be critical technologies for the future.
+
+Blockchains can aggregate significant resources to contend with corporate giants, and compensate contributors to its success. Blockchain-based experiences offer developers greater profits and leaders have less control over users and developers compared to traditional databases. The dominant ethos of Web3 is "Can't be evil". However, not all data will be decentralized.
+
+Blockchain platforms may still be centralized due to control from proprietary code and intellectual property. Independent developers hold power through their creations, which are often based on the platform. The Metaverse may require blockchain as a general mechanism for running programs, storing data, and carrying out transactions. It is believed to be a distributed computer that runs a billion times.
+
+Leveraging the world's computing infrastructure is necessary for producing real-time, persistent world simulations, but it does not necessarily require blockchain technology. Tim Sweeney sees blockchain-based underpinnings as the most plausible path towards an open Metaverse. He remains optimistic about the potential of blockchain, but discouraged by its misuse, especially in the NFT field. Sweeney believes that innovation in technology and finance is welcome but advocates for age rating, disclosure of terms, and compliance with relevant laws for games that use blockchain technology. However, he highlights the problem of losing wealth in the crypto space due to the absence of intermediaries, regulatory oversight, or identity verification.
+
+The blockchain and NFT markets are plagued with copyright violations, confusion, and hype, but many believe blockchain's transparency and immutability could benefit users and developers in the Metaverse. However, the distribution of governance rights and tokens remains a concern. Facebook still allows Tinder users to use Facebook accounts for login and photo uploads, as it benefits from knowing user behavior. Data is only exposed on an as-needed basis, according to some venture capitalists and technologists.
+
+Blockchains are fat protocols supporting thin applications, while the Internet Protocol Suite captures identity, data, and social connections through those building on it. The timing and emergence of the Metaverse remains uncertain, with differing predictions from industry leaders, including Nadella, Gates, Zuckerberg, Carmack, Sweeney, Huang, Pichai, and Ma. While some believe the Metaverse is already here, others caution that it remains primitive and experimental.
+
+The mobile internet era's start is hard to pinpoint, as it was an iterative process with many different changes. Some might say it started with the iPhone, but it was the result of many technological, industrial, and process-related transformations. The process of electrification, which started in the late 19th century, is a case study of iterative transformation. It consisted of two separate waves of technological and process-related transformation, and it was not a single period of steady growth.
+
+The process of electrification consisted of two separate waves of transformation. The first wave began in 1881, and by the early 20th century, only 5-10% of mechanical drive power in the US came from electricity. The second wave began in 1910 and saw electricity's share of mechanical drive power quintuple to over 50% by 1920. The difference between the waves was in how electricity was used; the second wave involved redesigning factories from end-to-end for electricity, replacing cogs with electric wires, and installing bespoke electrically powered motors for specialized functions. The benefits included increased safety, reduced costs, and downtime.
+
+The Second Industrial Revolution was propelled by interconnected innovations in power management, manufacturing hardware, and production theory. The widespread adoption of electricity-based infrastructure and equipment, including assembly lines, allowed for more efficient and specialized production. Henry Ford's introduction of the moving assembly line using electricity and conveyor belts reduced car production time significantly. The Roaring Twenties saw significant increases in labor and capital productivity due to these innovations.
+
+The mobile era was created by many technological innovations, not just the iPhone. The second iPhone, released in 2008, was a turning point with the introduction of 3G and the App Store. These innovations were made possible by the contributions of various companies and organizations, including wireless providers, tower companies, app developers, and major banks. The iPhone also depended on countless other technologies and components from companies including Samsung, ARM, Corning, Broadcom, and more.
+
+The development of the iPhone 12 required ecosystem-wide innovation and investments, with improvements in hardware and software enabled by changing consumer habits and evolving technological capability. Apple's ability to release a 5G device was only possible in 2020 due to the availability of 5G networks and wireless standards, as well as the development of apps that take advantage of low latency and bandwidth. Better hardware powered greater engagement, which drove greater growth and profits for companies, driving better products, apps, and services.
+
+The new design of the iPhone opened up space for more sophisticated sensors and computing components, allowing for more complex software-based interaction models. While some executives believe that we have already entered the Metaverse, only a small fraction of people regularly engage with virtual worlds, and there is no clear before and after. However, a critical mass of working pieces, including affordable mobile computers with high-resolution touch displays and powerful CPUs and GPUs, are rapidly coming together to enable complex real-time rendered environments with concurrent users.
+
+The development of 4G mobile chipsets and wireless networks, programmable blockchains, and cross-platform gaming has enabled the creation of the Metaverse, a decentralized virtual reality that can be accessed from any device. Cross-platform gaming is essential for the Metaverse as it allows users to interact with each other regardless of the operating system they use, leading to increased engagement and value through network effects.
+
+The growth of virtual worlds has led to an increase in profits for independent developers and a cultural shift towards valuing digital items and spending time in virtual environments. The success of Fortnite and the rise of NFTs have highlighted the value of virtual items. The COVID-19 pandemic accelerated the destigmatization of spending time in virtual worlds, leading to a change in societal perceptions towards virtual weddings and funerals.
+
+The pandemic led to increased use and destigmatization of virtual worlds and gaming, resulting in more revenue and investment, and attracting larger brands. Many companies have now made the Metaverse a key part of their business strategy. The next drivers of growth may include regulatory action, the development of AR/VR headsets, blockchain-based computing, low-latency cloud computing, and a common standard for 3D.
+
+The Metaverse is being driven by improving underlying technologies, ongoing generational change, and the coming together of experiences. Internet service, computing power, game engines, and virtual world platforms are all improving. Each generation is becoming more accustomed to interactive technology, and younger generations are increasingly gaming. The Metaverse will be ushered in through experiences.
+
+The Metaverse will require imagination and development by professionals to produce dynamic, real-time virtual worlds. As more iPad-natives become professional developers and business leaders, the potential for the Metaverse to transform industries is high. Similar to online groceries, the COVID-19 pandemic may prompt more people to try the Metaverse, leading to the realization that it is easy and enjoyable. While it is difficult to predict the future of the Metaverse, some areas are likely to be transformed by it, drawing in millions of users and dollars.
+
+Education is an example of an industry that is likely to be transformed by the Metaverse, as it currently faces issues such as Baumol's Cost Disease and unequal distribution of educational resources. Unlike other sectors that have become more efficient with digital technologies, teaching has seen a smaller increase in productivity. Teaching salaries must compete with other professions and rise with the cost of living.
+
+The rising cost of education is due to a resource-intensive system and new expensive technologies, leading to a lack of productivity growth. Despite expectations that remote learning would revolutionize education, the COVID-19 pandemic showed that it has many challenges and the loss of presence in the classroom is a significant disadvantage. Pedagogical research supports the benefits of physical presence in learning environments.
+
+The loss of presence in remote learning deprives students of key learning experiences that involve physical interaction and hands-on activities. However, new technologies such as VR and AR headsets, haptics, and eye-tracking cameras can augment the learning process and offer virtual simulations that can take students to any place and enable them to build and test Rube Goldberg machines, learn about gravity, and immerse themselves in a volcano. These technologies will close the gap between in-person and remote education.
+
+Virtual reality and virtual worlds can enhance learning, expand access, and reduce costs by providing on-demand lessons that are fully accessible and customizable, and can be supplemented by live teachers. These experiences can be priced at a fraction of classroom learning costs and can offer more than real-life field trips. While pedagogy is an art and learning is hard to measure, virtual experiences can bridge the gap between in-person and distance education, provide a competitive marketplace for pre-made lessons and live tutors, and increase the reach of great teachers.
+
+The Metaverse is not necessary for compelling 3D educational experiences, but interoperation between experiences and the real world can enhance learning and personalization. The Metaverse will transform other socially focused experiences such as fitness, mindfulness, therapy, and dating, with the use of immersive technologies such as holographic displays and tracking cameras. Fitness companies like Peloton are already incorporating real-time rendered virtual games, and dating apps could potentially utilize the Metaverse for more immersive experiences.
+
+Dating apps have moved from multiple-choice quizzes to photo-based models where users swipe right or left. New features such as games, quizzes, voice notes, and the ability to share music playlists have been added. In the future, dating apps will offer immersive virtual worlds for couples, including simulated reality and live performances. Linear media such as TV shows and films are moving towards VR and AR, with shows filmed for 360 immersion.
+
+The future of entertainment may involve rich interconnection between film and interactive experiences, using real-time rendering engines. Film and TV will not go away but will likely be remixed and consumed through aggregator solutions and social media. Similar to how newspapers were disrupted by the internet, we can expect a transformation in how we consume entertainment.
+
+In recent years, Hollywood has increasingly used real-time rendering engines like Unity and Unreal to integrate virtual sets into their filming process. For the movie "The Lion King," director Jon Favreau used a Unity-based virtual set to understand each scene and aided in shot placement, camera angles, lighting, and coloring. Favreau also helped pioneer virtual production stages with high-density LED walls and ceilings lit up by real-time renders, allowing real people to be seen in the environment and interact with it. This innovation provided a number of benefits, including accurate shadows and lighting for the actors without the need for post-production effects.
+
+Virtual production, using real-time rendering engines like Unity and Unreal to integrate virtual sets into filming, is becoming increasingly popular in Hollywood. Industrial Light & Magic estimates that using LED volumes can result in filming 30-50% faster with lower post-production costs. The hit show, The Mandalorian, was shot on a single virtual stage using this technique. Virtual backlots are being created by storing virtual versions of every 3D object, texture, outfit, environment, building, and facial scan created by companies like Disney. This allows for easier creation of derivative works, such as Peloton selling a course set on the Death Star or Tinder offering virtual dates on Mustafar.
+
+Disney plans to populate mini-worlds in Fortnite Creative instead of launching a Star Wars integration. These mini-worlds will become a core part of the storytelling experience where fans can participate in canonical or noncanonical events and side missions. Similar opportunities will open up to sports fans, where they can jump into a specific moment from a game and try to win or make a shot. The experiences of sports fandom, fantasy sports, online wagers, NFTs, and game-based casinos will meld together in the future to create new ones. Betting and gambling will be transformed as well.
+
+Virtual entertainment is being reimagined with motion capture-powered dealers, musical performances, and blockchain-based programming for virtual horse races. Interactive entertainment is shifting towards not supporting linear stories, but collectively producing an interactive one. Genvid Technologies hosted a Massively Interactive Live Event on Facebook Watch, called Rival Peak, where the audience could affect the simulation in real-time by solving puzzles, weighing in on the choices of AI characters, and voting on who would be booted off the island. The Walking Dead: The Last M.I.L.E. allows viewers to decide who lives and who dies, while also steering competing factions of humans toward or away from conflict.
+
+The article discusses the potential impact of advanced technology on the entertainment industry, particularly the possibility of high fidelity real-time rendered versions of games played by favorite celebrities via avatar. It also explores changes that may occur in the sex work industry, such as the use of internet-connected haptic devices, improvements in real-time rendering, immersive AR and VR headsets, and high-concurrency GPUs. The article raises concerns about potential abuse and questions of platform power, as major computing platforms do not allow sex or pornography-based applications.
+
+The article discusses the policies of major technology companies, such as Apple, Amazon, and Google, to block sex work and pornography-based applications, which harms individual sex workers and prevents the advancement of the industry. Additionally, virtual worlds have been largely ignored by advertisers and fashion houses, but this will need to change as brands begin to pay attention to these spaces. The gaming industry's offline history and inability to update in-game advertising have made it difficult for advertising in virtual spaces to become prevalent.
+
+In-game advertising is a challenge in the gaming community as it is largely unfamiliar and resistant to it. Technical limitations no longer exist, but cultural consequences endure. Determining what an ad should be in a real-time rendered 3D virtual world and how to price and sell it is a bigger issue. Digital advertising today is done programmatically, but finding the core ad unit for 3D-rendered virtual worlds is a challenge. Many games have in-game billboards, but their implementations are quite different.
+
+In-game advertising is challenging due to varying player speeds and distances, making it hard to value and buy programmatically. Other potential ad units, such as virtual branded products, are even harder to design and measure. Augmented reality advertising has execution challenges due to the risk of being obtrusive or causing accidents. Ad tech industry will need to find a way to offer and measure programmatic ads in the Metaverse for it to be a major economic force. The Metaverse may require a fundamental rethinking of how to advertise a product. Nike's immersive Fortnite Creative Mode world under the Air Jordan brand, entitled Downtown Drop, is an example of innovative advertising.
+
+Advertising in the metaverse requires building experiences and virtual products that users choose to engage with, which is a difficult task for most ad agencies and marketing departments. However, the potential profits and the need for differentiation will likely inspire experimentation in this field. Upstart brands won market share through novel marketing techniques, but these strategies are now commonplace. Virtual worlds remain largely untapped, presenting an opportunity for brands to stand out. Tim Sweeney suggested that brands can drop their products into the virtual world and work with content creators to ensure their products are playable and receive attention.
+
+Fashion brands will need to enter the Metaverse as virtual worlds become a popular means of expressing identity and showing off. The success of Fortnite and NFTs in generating revenue through cosmetic items and identity-oriented profile pictures indicates this trend. The physical sales of companies like Louis Vuitton and Balenciaga may be affected by the Metaverse, but they can use their physical sales to bolster their digital ones. The Metaverse will eventually expand into industry, but technical requirements and re-education will slow this process.
+
+Metaverse investments may initially be constrained and disappointing, as many employees are trained on legacy software and investments are based on hypotheses. However, the Metaverse has the potential to generate revenue out of sight from the average consumer. The Strategic Development Partners' redevelopment project in Tampa utilized a 3D-printed and modular scale model of the city, which was supported by 5K laser cameras and a real-time rendered simulation, enabling stakeholders to understand and plan for the project in unique ways. The simulation allowed for various scenarios to be explored, such as the impact on traffic, emergency response times, and views of buildings and parks.
+
+Simulation technology, such as 3D models and real-time tracking, can be used to design and operate buildings and businesses. This can include selecting signage based on customer data and inventory, directing traffic flow, and aiding emergency responders. 3D simulations are also utilized in military, aerospace, and medical industries, such as using AR for surgery. Digital twin technology can improve information for AI-powered systems and provide physicians with a natural way to view patient data during surgery.
+
+For consumer VR/AR headsets to gain adoption, they must offer more compelling and functional experiences than alternatives like console video games or messaging apps. While immersion is a differentiator, there are still many drawbacks, and many gamers do not find VR games good enough to compete with console, PC or smartphone-based titles. However, in applications like surgery, even a slight impact of AR/VR technology can justify its cost and use. Neal Stephenson described this technology as "interactive books" or "ractives," and if the metaverse becomes a quasi-successor state to the mobile and cloud era, it will eventually transform most industries and reach nearly every person on earth.
+
+While corporate executives cannot agree on the exact definition and arrival time of the Metaverse, they predict that it will be worth multiple trillions of dollars, and Nvidia's Jensen Huang believes it will exceed the physical world's value. However, it is challenging to project the size of the Metaverse economy, as there is no consensus on the value of the mobile, internet, or digital economies, and they are not a separate economy but deeply intertwined with the traditional economy. Valuing them is an art of allocation rather than a science of measurement, and there are questions about how to allocate revenue from physical and digital products.
+
+The article discusses the challenges of measuring digital revenues and their subsets, such as mobile and internet revenues, in the context of the emerging Metaverse economy. The author raises questions about how to allocate revenue based on user behavior across devices and how to account for software updates and NFTs. These issues highlight the need for new methods of measurement and allocation in the Metaverse economy.
+
+The article explores various questions about how to measure and allocate revenue in the emerging Metaverse economy, including what counts as a Metaverse purchase and how to assess investments in low-latency networking. The author suggests a philosophical approach to sizing the Metaverse economy, noting that the digital economy's share of the world economy has grown steadily over the past few decades, with mobile and cloud technologies driving much of the growth in recent years.
+
+The Metaverse will transform the economy, with potential for it to constitute a significant portion of the digital economy by 2032, and contribute to overall global economic growth. Companies pioneering in the Metaverse will likely see higher valuation and wealth creation, and the transformation will redefine business models, behaviors, and culture.
+
+The digital economy is much larger than the reported revenues of the big five technology giants, as they have a disproportionate impact on the revenues they don't recognize on their balance sheet. In the Metaverse era, new companies will be developed and some of the current leaders will be displaced, while others will expand or grow their core businesses.
+
+Facebook faces challenges in its shift towards the Metaverse, as regulators may not support acquisitions similar to its past pivots, and hardware platforms pose strategic blocks. However, the company has a large user base, significant investment in Metaverse initiatives, and a head start in shipping VR hardware. Success is not guaranteed as disruptions are unpredictable and there are many open questions surrounding the Metaverse. Microsoft's past mistakes serve as a cautionary tale.
+
+Google, which operates the world's most popular operating system, browser, and online services, may not have a significant role in the Metaverse due to its lack of virtual world platforms or engines. In contrast, disruptors such as Epic Games, Unity, and Roblox Corporation have player and developer networks, virtual worlds, and virtual plumbing that position them as potential leaders in the Metaverse. Despite agreeing on the importance of the Metaverse, these companies have little in common with GAFAM's histories, cultures, and skillsets.
+
+Tech giants have paid relatively little attention to video games as a potential gateway to the Metaverse, instead focusing on other bets such as streaming TV and cloud-based word processors. Despite Mark Zuckerberg's successful acquisitions of Instagram and WhatsApp, companies such as Epic, Unity, and Roblox were not acquired due to the uncertainty surrounding their role and potential in the video game industry. However, in 2015, Zuckerberg pitched the idea of acquiring Unity to his board.
+
+Facebook's focus on video games as a gateway to the Metaverse has been limited, with no acquisition of companies such as Epic, Unity, or Roblox. Facebook's core Metaverse strategy is not Oculus, but the Roblox and Fortnite-like Horizon Worlds platform. Amazon's efforts to build Metaverse-specific content and services have been largely unsuccessful, with most titles being cancelled before release. However, Amazon Web Services (AWS) benefits from the demand for computing power and live services in the Metaverse. New World, released by Amazon Game Studios in September 2021, received strong initial interest but has a monthly player count estimated in the low millions.
+
+Amazon Game Studios' efforts to build a successful gaming division have so far been largely unsuccessful. While the company has found success in other areas such as music and video streaming, its gaming initiatives, including the development of its own game engine, Lumberyard, and the launch of its cloud game-streaming service, Luna, have not been well received by the market. The only major success in gaming for Amazon has been the republishing of the popular game Lost Ark.
+
+Apple is expected to benefit from the Metaverse, as its hardware, operating system, and app platform will remain a key gateway to the virtual world, but it is unlikely to develop its own leading interactive virtual world platform. Microsoft may be the most interesting GAFAM company in the Metaverse era, as it has made successful acquisitions in gaming, including Minecraft, and has a strong gaming division that could be essential in the virtual world.
+
+Microsoft has a strong presence in the gaming industry with its Xbox division, cloud game-streaming service, and proprietary engines. The company's acquisition of Activision Blizzard is expected to accelerate its growth in mobile, PC, console, and cloud gaming while providing building blocks for the metaverse. Microsoft's platform-agnostic approach has positioned it well for the metaverse. Sony Interactive Entertainment is currently the largest gaming company in the world by revenue.
+
+Sony has a diverse business portfolio including proprietary hardware, games, third-party publishing, and distribution. The company's original games are considered among the most creative in the industry, and PlayStation is the top-selling console in several console generations. Sony Pictures is the largest movie studio by revenue, and the semiconductor division is the world leader in image sensors. Sony's assets and creativity capabilities present enormous potential for the metaverse, but challenges remain with limited success producing hit mobile, cross-platform, or multiplayer games and being viewed as a laggard in online services.
+
+Sony's shift to the Metaverse may require the use of GAFAM services and products as the company lacks major contenders in semiconductors. Sony's previous attempt at an IVWP, Dreams, failed to attract users due to its high cost and limited availability. Compared to GAFAM, Sony reaches fewer users, employs fewer engineers, and has a smaller R&D budget. Sony has a history of missed opportunities, despite its strength in consumer electronics, smartphones, and gaming. To lead in the Metaverse, Sony needs considerable innovation and unprecedented cross-division collaboration, and it must connect with third-party platforms. Nvidia, built for graphics-based computing, is a potential competitor in this space.
+
+AMD and Nvidia are likely to benefit from increased demand for compute in the Metaverse, with Nvidia having aspirations beyond just providing GPUs and CPUs. Nvidia's cloud game-streaming service, GeForce Now, is the second most popular in the world, and its Omniverse platform is pioneering 3D standards. It is likely that the Metaverse will be powered in large part by Nvidia in 2022. However, some companies may falter in the Metaverse, and new players, motivated by Web3 principles or the opportunity provided by the Metaverse, may displace at least one member of the GAFAM five.
+
+
+
+ A few integrated platforms will dominate the Metaverse, shaping its economy and users' behavior. 
+
+ Businesses benefit from feedback loops, and habits are sticky even in a blockchain future. 
+
+ The war for the Metaverse is between centralization and decentralization, and its position will shift over time. 
+
+ Apple's closed mobile ecosystem was a successful bet against conventional wisdom, leading to a mature digital economy and the most valuable company in history.
+
+
+
+ Apple's dominance in the personal computer and software sales deprives developers and consumers of choice. 
+
+ The growth of the Metaverse benefits from both centralization and decentralization. 
+
+ There are some obvious policy approaches that follow if most companies, developers, and users accept the basic point that it cannot be one or the other. 
+
+ Epic Games' Unreal license to developers gives them indefinite rights to a specific Unreal Engine build, which reduces their reliance on Epic's leadership.
+
+Epic gives developers freedom to customize and forego updates in favor of their own additions. Epic also modified their Unreal license to require legal action to terminate it for non-payment or violation, rather than instant suspension. This policy aims to build trust with developers, who benefit from a more stable business environment. In the Metaverse, landlords can lock out tenants and revoke their possessions without cause, but decentralization or extending legal systems may help prevent abuse of power. The hope is that the Metaverse will encourage a race to trust among platforms, making it easier and faster to build profitable virtual goods and spaces.
+
+Microsoft has implemented several policy changes to build trust with developers and position themselves as partners in the Metaverse. These include reduced fees on PC games and allowing non-gaming apps to use their own billing solutions. Microsoft also updated their Edge browser to support competitors' cloud game-streaming services and announced a new policy platform for Windows, which includes support for third-party payment solutions and app stores. Microsoft committed to not disadvantaging developers who choose to use these alternatives and allowing users to set them as default options. These principles will not immediately apply to Xbox console store due to its design to sell at a loss.
+
+Microsoft plans to adapt its business model for the store on the Xbox console. Zuckerberg's Metaverse strategy aims to benefit developers by marginalizing the power and profits of Facebook's VR and AR devices, by allowing app downloads from competing app stores and enabling APIs and integrations with competing platforms. Facebook will continue to use open-source API collections for AR and VR apps rather than produce proprietary API suites. They also announced that Oculus devices would no longer require a Facebook account.
+
+Microsoft endorses a US Senate bill requiring Apple and Google to open their mobile operating systems to third-party app stores and payment services. Microsoft admits to being on the wrong side of history with open-source software. Facebook's approach to sideloading may have been different if it had its own operating system. The Web3 movement stems from dissatisfaction with the exchange of free services for free user data during Web 2.0, which resulted in companies owning data in perpetuity.
+
+The power of companies like Amazon is based on years of prior searches and purchases, making it harder for competitors to win over their customers. Some argue that users should have the right to export their data to competing sites. Companies built off of user data have worsened people's lives, leading to skepticism towards Facebook's announcement of a name change to Meta. The terms Web3 and Metaverse have been conflated, raising concerns about the power of tech behemoths in a parallel virtual universe. Envisioning the Metaverse as dystopic is not entirely misguided, as those who control it tend to use it for ill, leading to concerns about their absolute power.
+
+The impact of the Metaverse on society and policies needs to be considered. Hollywood companies could have greatly benefited from acquiring Epic, Roblox, or Unity. Sony partnered with Microsoft for cloud gaming, while Xbox sees Amazon and Google as main competitors. Dreams is limited to PlayStation devices, making it difficult to expand to other platforms. The digital era has improved access to information and given marginalized groups a voice.
+
+The internet has made art more accessible and provided opportunities for artists, but society still faces numerous challenges in online interactions such as misinformation, harassment, and limited data rights. The problems are human and societal at their core and have grown with time. As more aspects of life go online, the challenges will exacerbate and be difficult to solve. The emergence of the Metaverse will further exacerbate the challenges, and reapplying lessons learned from the past 15 years of the social and mobile internet may not suffice.
+
+The Metaverse will make radicalization, surveillance, and misinformation easier, while also making harassment and moderation more difficult. Strategies such as explicit user permissions and no-touch zones may be implemented, but new forms of harassment are likely to emerge. The question of data rights and usage is also a concern.
+
+The Metaverse raises fundamental issues regarding personal data ownership, access, and privacy, as well as the nature of work and labor markets. These issues include understanding what users are sharing, platform obligations to return data to users, managing data security and ownership, and the impact of virtual work on labor markets. The Metaverse will also redefine the nature of work, allowing for remote work and improving job opportunities in various fields, including education and retail.
+
+The Metaverse raises questions about hiring practices and minimum-wage laws in a global virtual economy, potentially impacting the supply and pricing of in-person labor. It also raises questions about identity and cultural appropriation in the virtual world, particularly regarding the use of avatars and the reproduction of identities faithfully. Recent debates around the pricing of Cryptopunks NFT collection reflect these concerns.
+
+The low price of non-white Cryptopunks is due to their scarcity, not their value. One perspective is that the discount makes them more affordable for those with less wealth, while others are concerned about the digital divide. However, the declining cost and increasing utility of consumer electronics suggest that these concerns can be addressed over time through greater investment and cost improvements.
+
+VR and AR headsets will become more efficient, leading to lower prices. The fear that people will spend their entire lives indoors on a VR headset lacks context, as many people already spend hours passively watching video alone. Shifting to more social and engaged entertainment, especially for the elderly, could be a positive outcome. As the Metaverse is unpredictable, users and developers have agency in how it is built and governed, including the role of government.
+
+The Metaverse lacks governing bodies beyond virtual world platform operators and service providers, and it needs new rules, standards, and governing bodies to ensure its healthy development. The importance of nonprofit bodies like the Internet Engineering Task Force is highlighted, which played a key role in steering the development of the internet. Governments have successfully steered new technologies in the past, and the Metaverse presents an opportunity for new policies, standards, and governing bodies. However, caution is needed in addressing the ethical and human rights issues involved.
+
+The author provides a framework for issues raised in the book, focusing on the need to dismantle the control of platforms like Apple and Google over in-app billing policies and other aspects of the digital economy. Regulators should force platforms to unbundle identity, software distribution, APIs, and entitlements from their hardware and operating systems to allow users to own their online identity and software and enable developers to freely distribute their software. Ultimately, users and developers should be able to determine the best standards and emerging technologies, irrespective of platform preferences.
+
+The article discusses the need for unbundling and greater protections for developers in the emerging Metaverse economy. It suggests that laws specific to virtual assets, tenancy, and communities are necessary and governments should take jobs, transactions, and consumer rights inside the Metaverse seriously. The article also calls for policies to support developers who want to export their creations and highlights the importance of not misapplying laws designed for physical goods and infrastructure.
+
+The article discusses the differences in content creation and platform dynamics between traditional 2D content networks and IVWPs, such as Roblox. It notes that IVWP content is typically created within the platform and cannot be easily exported or repurposed, making it harder for creators to operate on multiple platforms. This presents unique challenges for IVWPs in terms of fostering creator innovation, offering revenue guarantees, and competing with other platforms.
+
+Interoperable virtual worlds platforms (IVWPs) need to allow for continuous updates rather than cataloging, or they will limit developer reach and discourage investment in new platforms. This could lead to dominant IVWPs engaging in rent-seeking behavior. Some IVWPs support selective exports, but the process of making the data usable is not always easy, and it is up to the discretion of the platform.
+
+Governments have a responsibility to regulate and shape standards for the Metaverse by setting export conventions, file types, and data structures for IVWPs. This will make it easier to move virtual environments between platforms. Regulations should reflect the success of platforms and promote a collectively prosperous market that can produce new leaders. Smart contracts and DAOs should also be legally recognized to promote a healthy Metaverse. The ultimate authority of companies like Apple over their ecosystems is not a reliable foundation for the digital economy or the Metaverse.
+
+The legal recognition of blockchain technology will inspire entrepreneurship, protect users, and increase participation. KYC regulations should be expanded to validate identities and legal status for cryptocurrency investments and transactions. Government should take a more serious approach to data collection, usage, rights, and penalties in relation to Metaverse-focused platforms, which will generate vast amounts of personal data.
+
+Regulators should dictate the standards of the Metaverse and prioritize user rights to delete or download their data. Corporations should demonstrate their ability to secure privileged information and face punishment for failing to do so. Multiple national Metaverses are likely to emerge as the internet becomes increasingly regionalized due to the growth of non-American technology giants.
+
+The emergence of the Metaverse is likely to lead to more and stronger regional players, with nation-specific regulations causing fragmentation in the modern internet. Governments' efforts to regulate the Metaverse and reduce the power of Web 2.0 leaders will result in different outcomes and Metaverses. The South Korean government is building a stronger Metaverse economy and a larger global presence through the South Korean Metaverse Alliance, while China's Metaverse is expected to be centrally controlled and arrive earlier, with Tencent being a major player.
+
+Tencent is a major player in the gaming industry, owning stakes in companies such as Epic Games, Sea Limited, and Krafton, and developing local versions of hit games. They also own and operate WeChat and QQ, China's most popular messaging apps and digital payments networks, and use facial-recognition software to validate players' identities. Tencent is well-positioned to facilitate the interoperation of user data, virtual worlds, identity, and payments in the Metaverse. The Metaverse's realization depends on physical hardware, computer processors, and networks, and may be governed by corporations, governments, or decentralized groups of developers. The development of technology is often anticipated decades in advance, and the crucial role of government in making them useful for the collective benefit is highlighted.
+
+
+
+The current technology falls short of the Memex's capacity to store and connect all user content. 
+
+Futuristic depictions of technology, such as in 2001: A Space Odyssey and Snow Crash, were not accurate in their predictions. 
+
+The Metaverse, a real-time rendered 3D virtual world, is the future and will be adopted by younger generations to a greater degree. 
+
+Regulators will unbundle operating systems, but the companies that own them will still thrive in the Metaverse. 
+
+A few horizontally and vertically integrated companies will control a substantial share of the digital economy in the Metaverse.
+
+
+
+In the Metaverse era, some leaders will survive while others will perish. 
+
+Real-time 3D rendering won't be the best approach for all tasks or content, and interoperability will be imperfect and costly. 
+
+Virtual worlds and platforms will open up slowly and take different approaches to data and user exchange. 
+
+There will be taxes, fees, and the need for multiple identity systems and virtual storage lockers. 
+
+The role of blockchain in the Metaverse is unclear and disputed, and it still has a limited track record of success.
+
+The Metaverse is predicted to be worth trillions, but the timeline for its arrival and revenue generation is uncertain. The hype cycle will be caused by companies over-promising what is possible, technical barriers, and the time it takes to figure out what to build. Metaverse apps are currently in an early stage of development, but over time, everything we do will be reinvented. The success of companies like Instagram, Snap, Slack, and Spotify in reinventing communication and music discovery during the early days of the iPhone suggests that significant innovation is likely in the Metaverse.
+
+The Metaverse will feel more like a practical reality than a fantastical vision, but both technology and imagination are constraints on its development. The fits and bursts of Metaverse development will lead to bouts of disappointment and critiques, as seen in past criticisms of the Internet as a passing fad.
+
+The NASDAQ has surpassed its dotcom-era high, and predicting the future is difficult even for pioneers. The growth of the internet and Facebook exceeded expectations, and the iPhone's success was initially based on web apps until the App Store was released. The trajectory of the Metaverse will follow a similar pattern, with technological breakthroughs leading to unforeseen changes in society.
+
+The term "Metaverse" may be replaced due to negative associations, and Tencent initially used the term "hyper-digital reality" before switching to "Metaverse." The book acknowledges those who inspired the author, and is divided into three parts discussing the definition, construction, and potential impact of the Metaverse. The notes include references to articles about Facebook's plans for the Metaverse, Nvidia CEO's views on it, and Tencent's investments.
+
+The article includes various sources discussing the metaverse, a virtual world that blends reality and digital experiences. Chinese investors are showing interest in the metaverse despite official warnings, while the European Union expresses concerns about Facebook's metaverse project. The concept of the metaverse has been around since the 1930s, with various works of fiction imagining its potential. Some critics argue that the metaverse could lead to a dystopian future, while others see it as a platform for creativity and innovation. Minecraft players have already created impressive virtual worlds, and Epic Games CEO Tim Sweeney has expressed his interest in the metaverse.
+
+The text includes various sources discussing the concept of the metaverse, including opinions from industry leaders such as Tim Sweeney, Satya Nadella, and Sam George, as well as confusion and uncertainty around its definition and implementation. It also includes reports on companies such as Microsoft and Facebook planning to integrate the metaverse into their products, and Epic Games' efforts to "fix" the internet with their metaverse blueprint.
+
+The linked article contains a list of sources, including tweets and news articles, discussing various topics related to technology and the internet. These topics include the Metaverse, the Epic vs. Apple lawsuit, the history and predictions of economists and technology leaders, and the development of complex systems. There is also a mention of an article about Pixar.
+
+The sources cited in this text cover a variety of topics, including the making of Pixar's Monsters University, metaphysics, single-sharded architecture in MMOs, keynotes on technology, the year in Ethereum, military use of technology, and the development of the metaverse.
+
+The text includes various sources discussing different topics related to technology and its applications, including gaming, networking, computing, the metaverse, and artificial intelligence. Topics range from Microsoft's Flight Simulator to input latency detection in expert-level gamers, from Pixar's approach to tackling complexity in their assets to Nvidia CEO Jensen Huang's thoughts on the metaverse, blockchain, and chip shortage.
+
+The text includes various sources discussing the potential of the metaverse, virtual world engines, and interoperability in gaming. The sources include articles, tweets, videos, and reports from companies such as Intel, Roblox, and Epic Games. The metaverse is seen as a vast, interconnected network of virtual spaces that offer social, economic, and creative opportunities, while virtual world engines are software platforms that enable the creation of these spaces. Interoperability is important for the success of the metaverse, as it allows users to connect and interact across different platforms and devices. The sources also highlight the significance of language in the metaverse, with English being the preferred language for world business.
+
+
+
+Tonic Games Group, the makers of Fall Guys, joined Epic Games in March 2021. 
+
+Facebook is working on hands-free communication and brain-computer interfaces for restoring speech communication, but has stopped funding for its brain-reading interface. 
+
+Google is testing Project Starline for immersive communication, while Colossus is indexing the Earth. 
+
+Unity CEO predicts AR-VR headsets will be as common as game consoles by 2030. 
+
+The ACH network volume rose 11.2% in the first quarter of 2021, setting two records.
+
+The article includes several sources related to Epic Games, including the rise of the ACH network, the history of Epic's battle with Apple and Google, tweets from Epic CEO Tim Sweeney, and reviews of the Epic Games Store in 2020 and 2021. The article also covers news stories about the financial impact of Epic's exclusive deals, a judge's questioning of Tim Cook during the Fortnite trial, the success of iPhone software sales, the availability of Google Chrome for iOS, and Apple's warning against using iPhones for cryptocurrency mining.
+
+The text includes various sources discussing topics such as Bitcoin and its use on iPhones, Ethereum and its differences from Bitcoin, possession, NFTs, the use of cryptocurrency for Helium, and predictions for gaming in 2022. It also references sources such as Twitter, Flurry, The Telegraph, Insider, Wikipedia, Financial Times, New York Times, Helium, and Venture Beat.
+
+The article discusses predictions for the gaming industry in 2022, including the rise of blockchain and cryptocurrency integration in gaming, the growth of cloud gaming and subscription models, and the increasing importance of cross-platform play. It also includes several sources discussing the surge in venture capital funding for crypto companies, the mainstreaming of crypto crowdfunding, and the potential impact of cryptocurrency on various industries beyond finance. The article briefly touches on the concept of the metaverse and Bill Gates' predictions for its arrival.
+
+The Metaverse is predicted to host most virtual office meetings within two to three years. There are differing opinions on the future of gaming and digital reality. Historical examples, such as the US economy in the 1920s and the introduction of electricity in manufacturing, provide insight into the adoption of new technology. Baumol's cost disease, the psychology of dating apps, and permissionless innovation are also discussed in various sources. Additionally, Epic Games proposes a blueprint to fix the broken internet.
+
+The text discusses various aspects of the metaverse, including Microsoft's acquisition of Activision Blizzard, the ongoing antitrust lawsuit against Apple, Microsoft's principled approach to app stores, Apple's rules on cloud gaming, and past skeptical predictions about the internet's future.
+
+The text includes an index of various companies and terms, including Apple, Amazon, and Activision Blizzard. It also lists various products and services offered by Amazon, such as Amazon Game Studios and Amazon Luna. The text also mentions the Metaverse and Amazon's positioning for it, as well as Steve Jobs' original vision for the iPhone.
+
+This text covers various topics related to Apple and its products, including their approach to phone and gaming development, their dominance in the market, lawsuits they've faced, their App Store policies and control over payment rails, user identity and control, and specific features of their products like Face ID and iCloud storage. It also discusses their music and news services, as well as application programming interfaces (APIs) and their role in authentication and gaming consoles.
+
+The text covers a range of topics including artificial intelligence, augmented reality, avatars, blockchain technology, and the Metaverse. It mentions specific companies and products such as Autodesk, Google Glass, HoloLens, and Snapchat filters. It also discusses topics such as the computing demands of avatars, the potential use of augmented reality in medicine and sex work, and the potential of blockchain technology for decentralized apps and non-fungible tokens. The text does not provide a comprehensive analysis of any one topic, but rather provides a broad overview of several related areas.
+
+The text is a list of various terms, concepts, and companies related to technology and gaming, including blockchain, smart contracts, Solana blockchain, Bored Apes Yacht Club, brain-to-computer interfaces, broadband operators, CCP Games, central processing units, cloud game streaming, and more. The list also includes references to China's role in gaming and the internet, as well as popular games like Call of Duty and Candy Crush.
+
+The text mentions various topics such as specific numbers, individuals, companies, and concepts related to technology and entertainment. Some of the topics discussed include cryptocurrency, cross-platform gaming, decentralized apps and organizations, data security, digital payment networks, and the potential use of IPs in blockchains by companies like Disney. The downsides of decentralization and the tension with centralization in the Metaverse are also touched upon.
+
+The text contains a list of various topics and companies such as Marvel Comics, Pixar, Unity, disruptive technologies, education, entertainment industry, Epic Games, Ethereum, and Facebook. It also mentions specific events and products related to these companies, such as the Epic Games lawsuit against Apple, the Facebook acquisition of Instagram, and investments in AR/VR hardware. The concept of the Metaverse is also discussed as an opportunity for recursive innovation and generational changes in computing and networking.
+
+The text includes various topics related to technology and media, such as wearables, iOS app development, market capitalization, Metaverse, user authentication, social media platforms like Facebook, Instagram, and Oculus VR, gaming and game development, cross-platform game engines, and monetization models. It also mentions specific companies and products, such as Fitbit, Fortnite, and Free Fire, and includes references to people like Jon Favreau and Henry Ford.
+
+The text covers various topics related to gaming and technology, including interoperability among game platforms, game engines, cross-platform gaming, free-to-play game monetization, virtual gambling, and cloud game streaming. It also mentions several companies and their activities in the gaming and technology sectors, such as Amazon, Google, and Genvid Technologies. The text contains numerous references to page numbers and sections in the original source.
+
+- The text contains various references to technology and platforms such as Google Drive, Google Earth, Google Expeditions, Google Glass, Google Jump, Google Labs, Google Meet, Google Play Store, Google Project Starline, Google Stadia, and Google Street View. - It also covers topics related to governance, KYC regulations, and the future of integrated virtual world platforms (IVWPs) including the Metaverse. - The text mentions specific devices and manufacturers such as GPUs, smartphones, HoloLens, and Huawei. - Other references include gaming titles like Grand Theft Auto V, Hearthstone, and Honour of Kings, as well as companies like IBM and Hasbro.
+
+- The concept of identity is explored, including continuity of memory and the use of facial recognition in authentication - Immersion is discussed, including its relation to independent game engines and IMAX technology - Instagram is mentioned, including its acquisition by Facebook and integration with other apps - The topic of integrated virtual world platforms (IVWPs) is discussed, including Apple's outlawing of them and the future of the technology - Intellectual property is mentioned, including copyright, patents, and the first sale doctrine - The history and nature of the internet is explored, including its mobile era and regionalization - The internet of things (IoT) is briefly discussed, as well as internet service providers (ISPs) - Interoperability is explored, including its relation to avatars, game engines, and 3D formats and exchanges.
+
+The text contains various topics related to the gaming industry, including game platforms, integrated virtual world platforms, intellectual properties, the Metaverse, ownership and virtual goods. It also includes references to technology companies such as Apple and LG, individuals like Steve Jobs and Michael Jordan, and specific games like League of Legends and The Legend of Zelda: Breath of the Wild. The text also touches on themes such as language, laws and regulation, and machine learning.
+
+
+
+ The article lists various cultural references, companies, and individuals mentioned in the text. 
+
+ It discusses the arrival of the metaverse and its definition, including the confusion and uncertainty in defining it. 
+
+ The article explores the history and development of the metaverse, including its importance, governance, and potential economic value. 
+
+ It also touches on the future of education, industry, and entertainment within the metaverse, as well as potential dystopian concerns and the importance of trust. 
+
+ The article notes the positioning of tech giants and the trajectory of the metaverse's growth.
+
+The text discusses various topics related to technology and its impact on society, including the concept of the metaverse and its potential for unlimited users and winners/losers, as well as companies like Microsoft and their products such as Minecraft and HoloLens. It also touches on multiplayer gaming, Elon Musk's ventures such as Neuralink and SpaceX, and organizations like the NBA and NFL.
+
+The text contains a list of various companies, technologies, and concepts related to technology and media. It includes mentions of companies like Apple, Netflix, and Nvidia, as well as technologies like NFC, networking, and non-fungible tokens (NFTs). The text also includes references to specific products and services, such as the Nintendo Switch, The New York Times app, and Oculus VR's Horizon Worlds.
+
+The text mentions various topics related to technology and business, including gaming platforms such as PlayStation and PlayerUnknown's Battlegrounds, payment systems like PayPal and Visa, blockchain and ownership issues, as well as companies like Pixar and Planet Labs. It also covers concepts like pinch-to-zoom and privacy concerns, as well as the idea of progressive decentralization.
+
+The text contains various references to technologies, companies, and concepts such as protocol wars, racism, virtual reality, Roblox, revenge porn, revenue leakage, and smart contracts. It also includes mentions of popular games and platforms like Red Dead Redemption 2, Reddit, Snapchat, and Slack, as well as books like Snow Crash and Ready Player One. The text also touches on topics such as shared experiences, security, and the future of technology.
+
+This text includes various topics related to technology and media, including social media, advertising and marketing, blockchain, software development kits, video games, streaming, and standards and protocols. It also mentions companies such as Sony, SpaceX, Spotify, Square, and Steam, as well as various concepts such as decentralization, investment in startups, and regionalization of the internet. Additionally, the text references some works of fiction by Neal Stephenson and historical figures like Henry L. Stimson and Clifford Stoll.
+
+The text contains various references and discussions on different topics such as services, subscription apps and fees, sustainability, notable individuals like Tim Sweeney, tablets and technology, gaming, avatars and 3D objects, social media platforms, game engines, and other related topics. The content also touches on the Metaverse and its scope, timeline, and potential implications. It includes references to companies like Stripe, Tencent, Tesla, and Unity, as well as notable applications like TikTok and Twitter.
+
+The text covers a range of topics related to technology and gaming. Key points include: 
+
+ Mentions of specific companies such as Epic Games, Valve, and Tencent, as well as their products and services like the Unreal game engine and Steam. 
+
+ Discussions of user interfaces, including brain-to-computer interfaces and haptic feedback/interfaces. 
+
+ Considerations of virtual reality and its applications in areas such as education, entertainment, and engineering, as well as challenges like motion sickness and the potential for creating virtual isolation. 
+
+ Exploration of virtual goods, including their degradation over time and the role of virtual currency. 
+
+ References to various organizations, including the US Department of Defense and the US Bureau of Labor Statistics. 
+
+ Brief mentions of topics such as video calls/conferences, virtual real estate, and virtual worlds.
+
+The text contains a list of various entities, technologies, and concepts related to the digital world, including game engines and metaverses, virtual and augmented reality, payment systems, web technologies, gaming platforms such as Xbox, and popular apps like Zoom and YouTube. It also mentions specific companies and individuals, as well as their roles and contributions to the digital landscape.
+
+
+
+The text includes information on Mark Zuckerberg's acquisition strategy and his views on Apples control over user data, Facebook's iOS app, 3D technology, and VR devices. It also mentions his 2012 Metaverse keynote. The book's copyright is owned by Matthew Ball, and contact information for reproduction and bulk purchases is provided. ISBNs for the book and ebook versions are given, as well as contact information for the publisher in the US and UK.
+

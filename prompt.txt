@@ -1,0 +1,7 @@
+Write a very concise summary in key points of the following text. Each point should start with a triple hyphen ""---"" 
+
+
+<<TEXT>>
+
+
+CONCISE SUMMARY:
