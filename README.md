@@ -32,4 +32,4 @@ python TLDR-Local.py
 ```
 
 ## (Advanced) Custom Prompt 
-- You can change the prompt to your own liking by updating the **promp.txt** file. This is the instruction set to chatGPT. Make sure to keep the <<TEXT>> tag so it can load the text in at run time.
+- You can change the prompt to your own liking by updating the **promp.txt** file. This is the instruction set to chatGPT. Make sure to keep the <\<TEXT\>> tag so it can load the text in at run time.
