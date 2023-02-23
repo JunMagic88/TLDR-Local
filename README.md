@@ -26,7 +26,7 @@ pip install -r requirements
 ```python
 python parse.py
 ```
-2. Run this to start the summarisation. The summarised chunks are saved in **/Summaries** folder. If anything happens that caused the summariser to stop (e.g. your internet got disconnected), you can check the **error_log.txt** file to see where it got up to. Delete the files and text already summarised and run it again to continue. 
+2. Run this to start the summarisation. The summarised chunks are saved in **/Summaries** folder. If anything happens that caused the summariser to stop (e.g. your internet got disconnected or chatGPT is down), you can check the **error_log.txt** file to see where it got up to. Delete the files and text already summarised and run it again to continue. To stop it from running at any time, just press **Ctrl + C**
 ```python
 python TLDR-Local.py
 ```
