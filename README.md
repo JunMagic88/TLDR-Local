@@ -19,12 +19,12 @@ pip install -r requirements
 ```
 
 ## Adding texts to summarise
-1. Add any **.txt** **.pdf** or **.epub**files in the **/Books** folder 
+1. Add any **.txt** **.pdf** or **.epub**files to summarise in the **/Books** folder 
 
 ## Let's TLDR!
 1. Run this to convert all files in **/Books** into **.txt** and save them in the **/Texts** folder
 ```python
-python parse_to_txt.py
+python parse.py
 ```
 2. Run this to start the summarisation. The summarised chunks are saved in **/Summaries** folder. If anything happens that caused the summariser to stop (e.g. your internet got disconnected), you can check the **error_log.txt** file to see where it got up to. Delete the files and text already summarised and run it again to continue. 
 ```python
