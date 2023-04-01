@@ -8,7 +8,7 @@ chatGPT-powered summariser that can be run locally for large documents
 ```python
 git clone https://github.com/JunMagic88/TLDR-local.git
 ```
-4. Open the **TLDR-Local.py** file and replace the add your OpenAI API key to the line:
+4. Open the **TLDR-Local.py** file with a text editor and add your OpenAI API key (sk-xxxxxx) to the line:
 
 ```
 llm = ChatOpenAI(openai_api_key="sk-xxxxxxxxxxx",temperature=0,model_name="gpt-3.5-turbo")
@@ -20,10 +20,10 @@ pip install -r requirements
 ```
 
 ## Adding texts to summarise
-1. Add any **.txt** **.pdf** or **.epub**files to summarise in the **/Books** folder 
+1. Add any **.txt** **.pdf** or **.epub** files to summarise in the **/Books** folder 
 
 ## Let's TLDR!
-1. Run this to convert all files in **/Books** into **.txt** and save them in the **/Texts** folder
+1. Run this to convert all files in **/Books** into **.txt** - outputs are saved in the **/Texts** folder
 ```python
 python parse.py
 ```
