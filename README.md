@@ -10,7 +10,9 @@ git clone https://github.com/JunMagic88/TLDR-local.git
 ```
 4. Open the **TLDR-Local.py** file and replace the add your OpenAI API key to the line:
 
-```llm = ChatOpenAI(openai_api_key="sk-xxxxxxxxxxx",temperature=0,model_name="gpt-3.5-turbo")```
+```
+llm = ChatOpenAI(openai_api_key="sk-xxxxxxxxxxx",temperature=0,model_name="gpt-3.5-turbo")
+```
 
 5. Navigate to the TLDR-Local folder via **Terminal (Mac)** or **Command Prompt (Windows)** and run: 
 ```python
