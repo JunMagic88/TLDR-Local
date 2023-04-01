@@ -8,11 +8,9 @@ chatGPT-powered summariser that can be run locally for large documents
 ```python
 git clone https://github.com/JunMagic88/TLDR-local.git
 ```
-4. Open the **agents.txt** with any text editor and enter the chatGPT accounts' login details in the following way and save:
-```
-user1@email.com,password1
-user2@email.com,password2
-```
+4. Open the **TLDR-Local.py** file and replace the add your OpenAI API key to the line:
+```llm = ChatOpenAI(openai_api_key="sk-xxxxxxxxxxx",temperature=0,model_name="gpt-3.5-turbo")```
+
 5. Navigate to the TLDR-Local folder via **Terminal (Mac)** or **Command Prompt (Windows)** and run: 
 ```python
 pip install -r requirements
